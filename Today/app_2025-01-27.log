@@ -1568,3 +1568,216 @@ quéte': 'Gravure de symbole de quête' à la position (-9, -7)
 2025-01-27 12:39:48,974 - INFO - ☀️ ✅
 2025-01-27 12:39:53,975 - INFO - 📖
 2025-01-27 12:40:04,286 - INFO - ____ [12:59] Vous étes arrive a destination !
+2025-01-27 13:10:09,802 - INFO - ========================================
+2025-01-27 13:10:09,802 - INFO - Résumé des chasses :
+2025-01-27 13:10:09,802 - INFO -   - Chasses réussies : 0
+2025-01-27 13:10:09,802 - INFO -   - Chasses ratées   : 0
+2025-01-27 13:10:09,802 - INFO -   - Temps écoulé     : 0h 0m 0s
+2025-01-27 13:10:09,802 - INFO - ========================================
+2025-01-27 13:10:09,802 - INFO - On regarde si chasse en cours
+2025-01-27 13:10:10,318 - ERROR - Aucune correspondance trouvée pour [chasse] avec un score suffisant.
+2025-01-27 13:10:10,318 - INFO - Pas de chasse en cours
+2025-01-27 13:10:10,318 - INFO - 👜
+2025-01-27 13:10:18,442 - INFO - champs de cania
+2025-01-27 13:10:36,920 - INFO - 🚪
+2025-01-27 13:10:38,593 - INFO - ___ [15:09] Vous étes at
+a]
+2025-01-27 13:10:39,594 - INFO - 🚪
+2025-01-27 13:10:41,125 - INFO - 🚪 ✅
+2025-01-27 13:10:49,669 - INFO - ☀️
+2025-01-27 13:10:50,038 - ERROR - Aucune correspondance trouvée pour [sun_1k] avec un score suffisant.
+2025-01-27 13:10:50,039 - INFO - ☀️ ❌
+2025-01-27 13:10:50,131 - ERROR - Aucune correspondance trouvée pour [sun2] avec un score suffisant.
+2025-01-27 13:10:50,133 - INFO - ☀️ ❌
+2025-01-27 13:11:00,912 - INFO - 🚪
+2025-01-27 13:11:02,477 - INFO - 🚪 ✅
+2025-01-27 13:11:10,894 - INFO - ☀️
+2025-01-27 13:11:11,278 - ERROR - Aucune correspondance trouvée pour [sun_1k] avec un score suffisant.
+2025-01-27 13:11:11,279 - INFO - ☀️ ❌
+2025-01-27 13:11:11,370 - ERROR - Aucune correspondance trouvée pour [sun2] avec un score suffisant.
+2025-01-27 13:11:11,371 - INFO - ☀️ ❌
+2025-01-27 13:11:22,134 - INFO - 🚪
+2025-01-27 13:11:23,687 - INFO - 🚪 ✅
+2025-01-27 13:11:32,146 - INFO - ☀️
+2025-01-27 13:11:33,064 - INFO - ☀️ ✅
+2025-01-27 13:11:38,065 - INFO - 📖
+2025-01-27 13:11:48,683 - INFO - ____ [13:12] Vous 6tes arrin
+2025-01-27 13:11:58,467 - INFO - 👜
+2025-01-27 13:12:07,112 - INFO - Rivage sufokien
+2025-01-27 13:12:15,606 - INFO - On est déjà a la bonne map
+2025-01-27 13:12:16,835 - INFO - Vérification de la base de données.
+2025-01-27 13:12:16,911 - INFO - La base de données locale est à jour.
+2025-01-27 13:12:16,911 - INFO - Lancement de l'étape : 1 / 4
+2025-01-27 13:12:17,719 - INFO - Nombre d'indices détectés : 5
+2025-01-27 13:12:17,719 - INFO - On passe à l'indice : 1 / 5
+2025-01-27 13:12:18,065 - INFO - Texte extrait : 4 - Pioche plantée
+2025-01-27 13:12:18,065 - INFO - Coordonnées actuelle : (10, 22)
+2025-01-27 13:12:18,077 - INFO - Direction 4: x BETWEEN -5 AND 9, y = 22
+2025-01-27 13:12:18,091 - INFO - Meilleure correspondance pour 'Pioche plantée': 'Pioche plantée' à la position (8, 22)
+2025-01-27 13:12:18,094 - INFO - Commande copiée dans le presse-papier : /travel 8 22
+2025-01-27 13:12:28,076 - INFO - Map de l'indice (8, 22)
+2025-01-27 13:12:29,592 - INFO - On passe à l'indice : 2 / 5
+2025-01-27 13:12:29,942 - INFO - Texte extrait : 6 - Carapace de tortue E
+2025-01-27 13:12:29,942 - INFO - Coordonnées actuelle : (8, 22)
+2025-01-27 13:12:29,943 - INFO - Direction 6: y BETWEEN 7 AND 21  x = 8
+2025-01-27 13:12:29,944 - INFO - Meilleure correspondance pour 'Carapace de tortue E': 'Carapace de tortue' à la position (8, 19)
+2025-01-27 13:12:29,946 - INFO - Commande copiée dans le presse-papier : /travel 8 19
+2025-01-27 13:12:41,750 - INFO - Map de l'indice (8, 19)
+2025-01-27 13:12:43,301 - INFO - On passe à l'indice : 3 / 5
+2025-01-27 13:12:43,690 - INFO - Texte extrait : 4 - Fléche dons une pomme
+2025-01-27 13:12:43,690 - INFO - Coordonnées actuelle : (8, 19)
+2025-01-27 13:12:43,690 - INFO - Direction 4: x BETWEEN -7 AND 7, y = 19
+2025-01-27 13:12:43,691 - INFO - Meilleure correspondance pour 'Fléche dons une pomme': 'Flèche dans une pomme' à la position (3, 19)
+2025-01-27 13:12:43,695 - INFO - Commande copiée dans le presse-papier : /travel 3 19
+2025-01-27 13:13:04,446 - INFO - Map de l'indice (3, 19)
+2025-01-27 13:13:05,949 - INFO - On passe à l'indice : 4 / 5
+2025-01-27 13:13:06,342 - INFO - Texte extrait : 6 - Crane de renne
+2025-01-27 13:13:06,342 - INFO - Coordonnées actuelle : (3, 19)
+2025-01-27 13:13:06,342 - INFO - Direction 6: y BETWEEN 4 AND 18  x = 3
+2025-01-27 13:13:06,344 - INFO - Meilleure correspondance pour 'Crane de renne': 'Crâne de renne' à la position (3, 11)
+2025-01-27 13:13:06,346 - INFO - Commande copiée dans le presse-papier : /travel 3 11
+2025-01-27 13:13:17,014 - INFO - Temps écoulé : 1 minute(s) et 0 seconde(s)
+2025-01-27 13:13:36,663 - INFO - Map de l'indice (3, 11)
+2025-01-27 13:13:38,199 - INFO - On passe à l'indice : 5 / 5
+2025-01-27 13:13:38,584 - INFO - Texte extrait : 6 - Epouvontail pipe E
+2025-01-27 13:13:38,584 - INFO - Coordonnées actuelle : (3, 11)
+2025-01-27 13:13:38,584 - INFO - Direction 6: y BETWEEN -4 AND 10  x = 3
+2025-01-27 13:13:38,586 - INFO - Meilleure correspondance pour 'Epouvontail pipe E': 'Épouvantail à pipe' à la position (3, 2)
+2025-01-27 13:13:38,588 - INFO - Commande copiée dans le presse-papier : /travel 3 2
+2025-01-27 13:14:10,163 - INFO - Map de l'indice (3, 2)
+2025-01-27 13:14:11,689 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 13:14:14,100 - INFO - Lancement de l'étape : 2 / 4
+2025-01-27 13:14:14,963 - INFO - Nombre d'indices détectés : 4
+2025-01-27 13:14:14,963 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 13:14:15,341 - INFO - Texte extrait : 4 - Marionette
+2025-01-27 13:14:15,341 - INFO - Coordonnées actuelle : (3, 2)
+2025-01-27 13:14:15,342 - INFO - Direction 4: x BETWEEN -12 AND 2, y = 2
+2025-01-27 13:14:15,344 - INFO - Meilleure correspondance pour 'Marionette': 'Marionnette' à la position (1, 2)
+2025-01-27 13:14:15,348 - INFO - Commande copiée dans le presse-papier : /travel 1 2
+2025-01-27 13:14:23,607 - INFO - Map de l'indice (1, 2)
+2025-01-27 13:14:25,150 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 13:14:25,508 - INFO - Texte extrait : 2 - Cairn
+2025-01-27 13:14:25,508 - INFO - Coordonnées actuelle : (1, 2)
+2025-01-27 13:14:25,508 - INFO - Direction 2: y BETWEEN 3 AND 17, x = 1
+2025-01-27 13:14:25,510 - INFO - Meilleure correspondance pour 'Cairn': 'Cairn' à la position (1, 7)
+2025-01-27 13:14:25,512 - INFO - Commande copiée dans le presse-papier : /travel 1 7
+2025-01-27 13:14:45,508 - INFO - Map de l'indice (1, 7)
+2025-01-27 13:14:46,985 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 13:14:47,365 - INFO - Texte extrait : 4 - Girouette dragodinde
+2025-01-27 13:14:47,365 - INFO - Coordonnées actuelle : (1, 7)
+2025-01-27 13:14:47,366 - INFO - Direction 4: x BETWEEN -14 AND 0, y = 7
+2025-01-27 13:14:47,367 - INFO - Meilleure correspondance pour 'Girouette dragodinde': 'Girouette dragodinde' à la position (0, 7)
+2025-01-27 13:14:47,369 - INFO - Commande copiée dans le presse-papier : /travel 0 7
+2025-01-27 13:14:53,928 - INFO - Map de l'indice (0, 7)
+2025-01-27 13:14:55,310 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 13:14:55,690 - INFO - Texte extrait : 4 - Etoile en papier plié
+2025-01-27 13:14:55,690 - INFO - Coordonnées actuelle : (0, 7)
+2025-01-27 13:14:55,690 - INFO - Direction 4: x BETWEEN -15 AND -1, y = 7
+2025-01-27 13:14:55,692 - INFO - Meilleure correspondance pour 'Etoile en papier plié': 'Étoile en papier plié' à la position (-1, 7)
+2025-01-27 13:14:55,694 - INFO - Commande copiée dans le presse-papier : /travel -1 7
+2025-01-27 13:15:02,305 - INFO - Map de l'indice (-1, 7)
+2025-01-27 13:15:03,750 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 13:15:06,170 - INFO - Lancement de l'étape : 3 / 4
+2025-01-27 13:15:07,036 - INFO - Nombre d'indices détectés : 2
+2025-01-27 13:15:07,036 - INFO - On passe à l'indice : 1 / 2
+2025-01-27 13:15:07,416 - INFO - Texte extrait : 4 - Gravure dceil
+2025-01-27 13:15:07,416 - INFO - Coordonnées actuelle : (-1, 7)
+2025-01-27 13:15:07,416 - INFO - Direction 4: x BETWEEN -16 AND -2, y = 7
+2025-01-27 13:15:07,417 - INFO - Meilleure correspondance pour 'Gravure dceil': 'Gravure d'oeil' à la position (-2, 7)
+2025-01-27 13:15:07,420 - INFO - Commande copiée dans le presse-papier : /travel -2 7
+2025-01-27 13:15:14,266 - INFO - Map de l'indice (-2, 7)
+2025-01-27 13:15:15,773 - INFO - On passe à l'indice : 2 / 2
+2025-01-27 13:15:16,152 - INFO - Texte extrait : 6 - Ble noir et blanc
+2025-01-27 13:15:16,152 - INFO - Coordonnées actuelle : (-2, 7)
+2025-01-27 13:15:16,152 - INFO - Direction 6: y BETWEEN -8 AND 6  x = -2
+2025-01-27 13:15:16,153 - INFO - Meilleure correspondance pour 'Ble noir et blanc': 'Blé noir et blanc' à la position (-2, 6)
+2025-01-27 13:15:16,155 - INFO - Commande copiée dans le presse-papier : /travel -2 6
+2025-01-27 13:15:20,955 - INFO - Map de l'indice (-2, 6)
+2025-01-27 13:15:22,446 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 13:15:25,235 - INFO - 🤺
+2025-01-27 13:15:31,006 - INFO - 💪
+2025-01-27 13:15:34,002 - INFO - ✅
+2025-01-27 13:15:38,713 - INFO - 🪄
+2025-01-27 13:15:43,307 - INFO - ✨
+2025-01-27 13:15:47,767 - INFO - ✨
+2025-01-27 13:15:52,502 - INFO - ✨
+2025-01-27 13:15:59,021 - INFO - ✨
+2025-01-27 13:16:04,010 - INFO - ✨
+2025-01-27 13:16:04,571 - ERROR - Aucune correspondance trouvée pour [coffre] avec un score suffisant.
+2025-01-27 13:16:07,301 - INFO - ✨
+2025-01-27 13:16:07,863 - ERROR - Aucune correspondance trouvée pour [coffre] avec un score suffisant.
+2025-01-27 13:16:12,301 - INFO - ✨
+2025-01-27 13:16:12,839 - ERROR - Aucune correspondance trouvée pour [coffre] avec un score suffisant.
+2025-01-27 13:16:15,902 - INFO - ✨
+2025-01-27 13:16:16,457 - ERROR - Aucune correspondance trouvée pour [coffre] avec un score suffisant.
+2025-01-27 13:16:19,305 - INFO - ✨
+2025-01-27 13:16:19,866 - ERROR - Aucune correspondance trouvée pour [coffre] avec un score suffisant.
+2025-01-27 13:16:24,628 - INFO - ✨
+2025-01-27 13:16:25,179 - ERROR - Aucune correspondance trouvée pour [coffre] avec un score suffisant.
+2025-01-27 13:16:27,615 - INFO - ✨
+2025-01-27 13:16:31,827 - INFO - ✨
+2025-01-27 13:17:02,701 - INFO - ========================================
+2025-01-27 13:17:02,701 - INFO - Résumé des chasses :
+2025-01-27 13:17:02,701 - INFO -   - Chasses réussies : 0
+2025-01-27 13:17:02,701 - INFO -   - Chasses ratées   : 0
+2025-01-27 13:17:02,702 - INFO -   - Temps écoulé     : 0h 0m 0s
+2025-01-27 13:17:02,702 - INFO - ========================================
+2025-01-27 13:17:02,702 - INFO - On regarde si chasse en cours
+2025-01-27 13:17:03,249 - ERROR - Aucune correspondance trouvée pour [chasse] avec un score suffisant.
+2025-01-27 13:17:03,249 - INFO - Pas de chasse en cours
+2025-01-27 13:17:03,250 - INFO - 👜
+2025-01-27 13:17:11,363 - INFO - champs de cania
+2025-01-27 13:17:29,828 - INFO - 🚪
+2025-01-27 13:17:31,545 - INFO - ____ [13:16] Vous étes arrivé a destination !
+2025-01-27 13:17:32,545 - INFO - 🚪
+2025-01-27 13:17:34,105 - INFO - 🚪 ✅
+2025-01-27 13:17:42,515 - INFO - ☀️
+2025-01-27 13:17:43,302 - INFO - ☀️ ✅
+2025-01-27 13:17:48,303 - INFO - 📖
+2025-01-27 13:17:58,924 - INFO - ____ [13:16] Vous étes arrivé destination !
+2025-01-27 13:18:08,695 - INFO - 👜
+2025-01-27 13:18:17,630 - INFO - Cœur immaculé
+2025-01-27 13:18:25,815 - INFO - On est déjà a la bonne map
+2025-01-27 13:18:27,037 - INFO - Vérification de la base de données.
+2025-01-27 13:18:27,265 - INFO - La base de données locale est à jour.
+2025-01-27 13:18:27,266 - INFO - Lancement de l'étape : 1 / 4
+2025-01-27 13:18:28,110 - INFO - Nombre d'indices détectés : 4
+2025-01-27 13:18:28,110 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 13:18:28,488 - INFO - Texte extrait : 6 - Banniére bontarienne g
+déchirée
+2025-01-27 13:18:28,488 - INFO - Coordonnées actuelle : (-31, -56)
+2025-01-27 13:18:28,488 - INFO - Direction 6: y BETWEEN -71 AND -57  x = -31
+2025-01-27 13:18:28,490 - INFO - Meilleure correspondance pour 'Banniére bontarienne g
+déchirée': 'Bannière bontarienne déchirée' à la position (-31, -60)
+2025-01-27 13:18:28,494 - INFO - Commande copiée dans le presse-papier : /travel -31 -60
+2025-01-27 13:18:49,216 - INFO - Map de l'indice (-31, -60)
+2025-01-27 13:18:50,769 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 13:18:51,130 - INFO - Texte extrait : 4 - Bouton de couture
+2025-01-27 13:18:51,130 - INFO - Coordonnées actuelle : (-31, -60)
+2025-01-27 13:18:51,130 - INFO - Direction 4: x BETWEEN -46 AND -32, y = -60
+2025-01-27 13:18:51,131 - INFO - Meilleure correspondance pour 'Bouton de couture': 'Bouton de couture' à la position (-35, -60)
+2025-01-27 13:18:51,134 - INFO - Commande copiée dans le presse-papier : /travel -35 -60
+2025-01-27 13:20:13,358 - INFO - ========================================
+2025-01-27 13:20:13,358 - INFO - Résumé des chasses :
+2025-01-27 13:20:13,358 - INFO -   - Chasses réussies : 0
+2025-01-27 13:20:13,358 - INFO -   - Chasses ratées   : 0
+2025-01-27 13:20:13,358 - INFO -   - Temps écoulé     : 0h 0m 0s
+2025-01-27 13:20:13,358 - INFO - ========================================
+2025-01-27 13:20:13,359 - INFO - On regarde si chasse en cours
+2025-01-27 13:20:13,815 - INFO - Chasse en cours, on attend la fin du voyage (30 secondes)
+2025-01-27 13:20:44,470 - INFO - ========================================
+2025-01-27 13:20:44,470 - INFO - Résumé des chasses :
+2025-01-27 13:20:44,470 - INFO -   - Chasses réussies : 0
+2025-01-27 13:20:44,470 - INFO -   - Chasses ratées   : 0
+2025-01-27 13:20:44,470 - INFO -   - Temps écoulé     : 0h 0m 1s
+2025-01-27 13:20:44,470 - INFO - ========================================
+2025-01-27 13:20:44,470 - INFO - On regarde si chasse en cours
+2025-01-27 13:20:44,918 - INFO - Chasse en cours, on attend la fin du voyage (30 secondes)
+2025-01-27 13:21:17,286 - INFO - ========================================
+2025-01-27 13:21:17,286 - INFO - Résumé des chasses :
+2025-01-27 13:21:17,287 - INFO -   - Chasses réussies : 0
+2025-01-27 13:21:17,287 - INFO -   - Chasses ratées   : 0
+2025-01-27 13:21:17,287 - INFO -   - Temps écoulé     : 0h 0m 3s
+2025-01-27 13:21:17,287 - INFO - ========================================
+2025-01-27 13:21:17,287 - INFO - On regarde si chasse en cours
+2025-01-27 13:21:17,761 - INFO - Chasse en cours, on attend la fin du voyage (30 secondes)

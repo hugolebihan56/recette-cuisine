@@ -403,6 +403,11 @@ def find_malle_sur_la_map(image):
 
     return x,y
 
+def fix_la_map():
+    move_mouse_smoothly(1900,1070,1)
+    time.sleep(1)
+    move_mouse_smoothly(500,500,1)
+
 def go_cania():
     zaap_name = "champs de cania"
     pyperclip.copy(zaap_name)
@@ -410,6 +415,7 @@ def go_cania():
     time.sleep(1)
     keyboard.press_and_release('enter')
     time.sleep(4)
+    fix_la_map()
     #go_first_hint(-25, -36)
     x,y = find_malle_sur_la_map(1)
     ctrl_click(x,y)
@@ -482,7 +488,6 @@ if __name__ == "__main__":
     chasse_reussie = 0
     chasse_ratee = 0
     start_program_time = time.time()
-
     while True:
         try:
             os.system('cls' if os.name == 'nt' else 'clear')
