@@ -404,6 +404,7 @@ def find_malle_sur_la_map(image):
     return x,y
 
 def fix_la_map():
+    
     move_mouse_smoothly(1900,1070,1)
     time.sleep(1)
     move_mouse_smoothly(500,500,1)
