@@ -1,0 +1,11 @@
+pyautogui
+pillow
+requests
+python-Levenshtein
+keyboard
+pyperclip
+pynput
+pytesseract
+opencv-python
+matplotlib
+numpy

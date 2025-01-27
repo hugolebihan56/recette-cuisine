@@ -1,0 +1,1570 @@
+2025-01-27 00:03:25,523 - INFO - Nombre d'indices détectés : 4
+2025-01-27 00:03:25,523 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 00:03:25,913 - INFO - Texte extrait : 0 - Buisson poupée sadida_
+2025-01-27 00:03:25,913 - INFO - Coordonnées actuelle : (-1, 8)
+2025-01-27 00:03:25,913 - INFO - Direction 0: x BETWEEN 0 AND 14, y = 8
+2025-01-27 00:03:25,915 - INFO - Meilleure correspondance pour 'Buisson poupée sadida_': 'Buisson poupée sadida' à la position (7, 8)
+2025-01-27 00:03:25,919 - INFO - Commande copiée dans le presse-papier : /travel 7 8
+2025-01-27 00:03:57,793 - INFO - Map de l'indice (7, 8)
+2025-01-27 00:03:59,287 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 00:03:59,737 - INFO - Texte extrait : 2 - Affiche de carte au trésor E
+2025-01-27 00:03:59,738 - INFO - Coordonnées actuelle : (7, 8)
+2025-01-27 00:03:59,738 - INFO - Direction 2: y BETWEEN 9 AND 23, x = 7
+2025-01-27 00:03:59,739 - INFO - Meilleure correspondance pour 'Affiche de carte au trésor E': 'Affiche de carte au trésor' à la position (7, 10)
+2025-01-27 00:03:59,741 - INFO - Commande copiée dans le presse-papier : /travel 7 10
+2025-01-27 00:04:09,805 - INFO - Map de l'indice (7, 10)
+2025-01-27 00:04:11,245 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 00:04:11,631 - INFO - Texte extrait : 2 - Talisman en papier E
+2025-01-27 00:04:11,631 - INFO - Coordonnées actuelle : (7, 10)
+2025-01-27 00:04:11,631 - INFO - Direction 2: y BETWEEN 11 AND 25, x = 7
+2025-01-27 00:04:11,632 - INFO - Meilleure correspondance pour 'Talisman en papier E': 'Talisman en papier' à la position (7, 11)
+2025-01-27 00:04:11,635 - INFO - Commande copiée dans le presse-papier : /travel 7 11
+2025-01-27 00:04:18,393 - INFO - Map de l'indice (7, 11)
+2025-01-27 00:04:19,931 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 00:04:20,316 - INFO - Texte extrait : 0 - Fleurs smiley
+2025-01-27 00:04:20,316 - INFO - Coordonnées actuelle : (7, 11)
+2025-01-27 00:04:20,317 - INFO - Direction 0: x BETWEEN 8 AND 22, y = 11
+2025-01-27 00:04:20,318 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (9, 11)
+2025-01-27 00:04:20,321 - INFO - Commande copiée dans le presse-papier : /travel 9 11
+2025-01-27 00:04:30,970 - INFO - Map de l'indice (9, 11)
+2025-01-27 00:04:32,385 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:04:35,592 - INFO - Nombre d'indices détectés : 5
+2025-01-27 00:04:35,592 - INFO - On passe à l'indice : 1 / 5
+2025-01-27 00:04:36,016 - INFO - Texte extrait : 2 - Cairn
+2025-01-27 00:04:36,016 - INFO - Coordonnées actuelle : (9, 11)
+2025-01-27 00:04:36,017 - INFO - Direction 2: y BETWEEN 12 AND 26, x = 9
+2025-01-27 00:04:36,018 - INFO - Meilleure correspondance pour 'Cairn': 'Cairn' à la position (9, 12)
+2025-01-27 00:04:36,021 - INFO - Commande copiée dans le presse-papier : /travel 9 12
+2025-01-27 00:04:42,516 - INFO - Map de l'indice (9, 12)
+2025-01-27 00:04:44,107 - INFO - On passe à l'indice : 2 / 5
+2025-01-27 00:04:44,540 - INFO - Texte extrait : 4 - Fleurs smiley
+2025-01-27 00:04:44,540 - INFO - Coordonnées actuelle : (9, 12)
+2025-01-27 00:04:44,540 - INFO - Direction 4: x BETWEEN -6 AND 8, y = 12
+2025-01-27 00:04:44,542 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (6, 12)
+2025-01-27 00:04:44,544 - INFO - Commande copiée dans le presse-papier : /travel 6 12
+2025-01-27 00:04:58,641 - INFO - Map de l'indice (6, 12)
+2025-01-27 00:05:00,145 - INFO - On passe à l'indice : 3 / 5
+2025-01-27 00:05:00,582 - INFO - Texte extrait : 2 - Talisman en papier E
+2025-01-27 00:05:00,582 - INFO - Coordonnées actuelle : (6, 12)
+2025-01-27 00:05:00,582 - INFO - Direction 2: y BETWEEN 13 AND 27, x = 6
+2025-01-27 00:05:00,583 - INFO - Meilleure correspondance pour 'Talisman en papier E': 'Talisman en papier' à la position (6, 14)
+2025-01-27 00:05:00,585 - INFO - Commande copiée dans le presse-papier : /travel 6 14
+2025-01-27 00:05:24,797 - INFO - Map de l'indice (6, 14)
+2025-01-27 00:05:26,409 - INFO - On passe à l'indice : 4 / 5
+2025-01-27 00:05:26,769 - INFO - Texte extrait : 0 - Bonbon bleu
+2025-01-27 00:05:26,769 - INFO - Coordonnées actuelle : (6, 14)
+2025-01-27 00:05:26,769 - INFO - Direction 0: x BETWEEN 7 AND 21, y = 14
+2025-01-27 00:05:26,771 - INFO - Meilleure correspondance pour 'Bonbon bleu': 'Bonbon bleu' à la position (7, 14)
+2025-01-27 00:05:26,773 - INFO - Commande copiée dans le presse-papier : /travel 7 14
+2025-01-27 00:05:33,602 - INFO - Map de l'indice (7, 14)
+2025-01-27 00:05:35,164 - INFO - On passe à l'indice : 5 / 5
+2025-01-27 00:05:35,601 - INFO - Texte extrait : 0 - Carapace de tortue E
+2025-01-27 00:05:35,601 - INFO - Coordonnées actuelle : (7, 14)
+2025-01-27 00:05:35,601 - INFO - Direction 0: x BETWEEN 8 AND 22, y = 14
+2025-01-27 00:05:35,603 - INFO - Meilleure correspondance pour 'Carapace de tortue E': 'Carapace de tortue' à la position (8, 14)
+2025-01-27 00:05:35,605 - INFO - Commande copiée dans le presse-papier : /travel 8 14
+2025-01-27 00:05:42,380 - INFO - Map de l'indice (8, 14)
+2025-01-27 00:05:43,854 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:05:46,706 - INFO - Nombre d'indices détectés : 2
+2025-01-27 00:05:46,706 - INFO - On passe à l'indice : 1 / 2
+2025-01-27 00:05:47,115 - INFO - Texte extrait : 4 - Fleurs smiley
+2025-01-27 00:05:47,116 - INFO - Coordonnées actuelle : (8, 14)
+2025-01-27 00:05:47,116 - INFO - Direction 4: x BETWEEN -7 AND 7, y = 14
+2025-01-27 00:05:47,117 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (5, 14)
+2025-01-27 00:05:47,120 - INFO - Commande copiée dans le presse-papier : /travel 5 14
+2025-01-27 00:05:57,562 - INFO - Map de l'indice (5, 14)
+2025-01-27 00:05:59,048 - INFO - On passe à l'indice : 2 / 2
+2025-01-27 00:05:59,477 - INFO - Texte extrait : 2 - Bougie dans un trou
+2025-01-27 00:05:59,477 - INFO - Coordonnées actuelle : (5, 14)
+2025-01-27 00:05:59,477 - INFO - Direction 2: y BETWEEN 15 AND 29, x = 5
+2025-01-27 00:05:59,479 - INFO - Meilleure correspondance pour 'Bougie dans un trou': 'Bougie dans un trou' à la position (5, 23)
+2025-01-27 00:05:59,480 - INFO - Commande copiée dans le presse-papier : /travel 5 23
+2025-01-27 00:06:32,098 - INFO - Map de l'indice (5, 23)
+2025-01-27 00:06:33,558 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:09:55,017 - INFO - Nombre d'indices détectés : 6
+2025-01-27 00:09:55,017 - INFO - On passe à l'indice : 1 / 6
+2025-01-27 00:09:55,365 - INFO - Texte extrait : 0 - Talisman en papier E
+2025-01-27 00:09:55,365 - INFO - Coordonnées actuelle : (1, -32)
+2025-01-27 00:09:55,365 - INFO - Direction 0: x BETWEEN 2 AND 16, y = -32
+2025-01-27 00:09:55,367 - INFO - Meilleure correspondance pour 'Talisman en papier E': 'Talisman en papier' à la position (3, -32)
+2025-01-27 00:09:55,370 - INFO - Commande copiée dans le presse-papier : /travel 3 -32
+2025-01-27 00:10:03,972 - INFO - Map de l'indice (3, -32)
+2025-01-27 00:10:05,544 - INFO - On passe à l'indice : 2 / 6
+2025-01-27 00:10:05,932 - INFO - Texte extrait : 2 - Etoile en papier plié ic
+2025-01-27 00:10:05,932 - INFO - Coordonnées actuelle : (3, -32)
+2025-01-27 00:10:05,932 - INFO - Direction 2: y BETWEEN -31 AND -17, x = 3
+2025-01-27 00:10:05,933 - INFO - Meilleure correspondance pour 'Etoile en papier plié ic': 'Étoile en papier plié' à la position (3, -25)
+2025-01-27 00:10:05,935 - INFO - Commande copiée dans le presse-papier : /travel 3 -25
+2025-01-27 00:10:36,885 - INFO - Map de l'indice (3, -25)
+2025-01-27 00:10:38,325 - INFO - On passe à l'indice : 3 / 6
+2025-01-27 00:10:38,763 - INFO - Texte extrait : 0 - Gravure de logo Ankoma
+2025-01-27 00:10:38,763 - INFO - Coordonnées actuelle : (3, -25)
+2025-01-27 00:10:38,764 - INFO - Direction 0: x BETWEEN 4 AND 18, y = -25
+2025-01-27 00:10:38,765 - INFO - Meilleure correspondance pour 'Gravure de logo Ankoma': 'Gravure de logo Ankama' à la position (4, -25)
+2025-01-27 00:10:38,766 - INFO - Commande copiée dans le presse-papier : /travel 4 -25
+2025-01-27 00:10:45,269 - INFO - Map de l'indice (4, -25)
+2025-01-27 00:10:46,885 - INFO - On passe à l'indice : 4 / 6
+2025-01-27 00:10:47,276 - INFO - Texte extrait : 0 - Echelle cossée
+2025-01-27 00:10:47,276 - INFO - Coordonnées actuelle : (4, -25)
+2025-01-27 00:10:47,277 - INFO - Direction 0: x BETWEEN 5 AND 19, y = -25
+2025-01-27 00:10:47,278 - INFO - Meilleure correspondance pour 'Echelle cossée': 'Échelle cassée' à la position (5, -25)
+2025-01-27 00:10:47,281 - INFO - Commande copiée dans le presse-papier : /travel 5 -25
+2025-01-27 00:10:53,924 - INFO - Map de l'indice (5, -25)
+2025-01-27 00:10:55,505 - INFO - On passe à l'indice : 5 / 6
+2025-01-27 00:10:55,999 - INFO - Texte extrait : 0 - Canard en plastique E
+2025-01-27 00:10:55,999 - INFO - Coordonnées actuelle : (5, -25)
+2025-01-27 00:10:56,000 - INFO - Direction 0: x BETWEEN 6 AND 20, y = -25
+2025-01-27 00:10:56,001 - INFO - Meilleure correspondance pour 'Canard en plastique E': 'Canard en plastique' à la position (6, -25)
+2025-01-27 00:10:56,003 - INFO - Commande copiée dans le presse-papier : /travel 6 -25
+2025-01-27 00:11:02,779 - INFO - Map de l'indice (6, -25)
+2025-01-27 00:11:04,278 - INFO - On passe à l'indice : 6 / 6
+2025-01-27 00:11:04,785 - INFO - Texte extrait : 0 - Crane de Cra
+2025-01-27 00:11:04,785 - INFO - Coordonnées actuelle : (6, -25)
+2025-01-27 00:11:04,785 - INFO - Direction 0: x BETWEEN 7 AND 21, y = -25
+2025-01-27 00:11:04,786 - INFO - Meilleure correspondance pour 'Crane de Cra': 'Crâne de Crâ' à la position (7, -25)
+2025-01-27 00:11:04,788 - INFO - Commande copiée dans le presse-papier : /travel 7 -25
+2025-01-27 00:11:11,612 - INFO - Map de l'indice (7, -25)
+2025-01-27 00:11:13,135 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:11:16,223 - INFO - Nombre d'indices détectés : 5
+2025-01-27 00:11:16,223 - INFO - On passe à l'indice : 1 / 5
+2025-01-27 00:11:16,655 - INFO - Texte extrait : 2 - Affiche de carte au trésor E
+2025-01-27 00:11:16,655 - INFO - Coordonnées actuelle : (7, -25)
+2025-01-27 00:11:16,655 - INFO - Direction 2: y BETWEEN -24 AND -10, x = 7
+2025-01-27 00:11:16,657 - INFO - Meilleure correspondance pour 'Affiche de carte au trésor E': 'Affiche de carte au trésor' à la position (7, -24)
+2025-01-27 00:11:16,659 - INFO - Commande copiée dans le presse-papier : /travel 7 -24
+2025-01-27 00:11:23,414 - INFO - Map de l'indice (7, -24)
+2025-01-27 00:11:24,922 - INFO - On passe à l'indice : 2 / 5
+2025-01-27 00:11:25,348 - INFO - Texte extrait : 0 - Dofus en bois
+2025-01-27 00:11:25,348 - INFO - Coordonnées actuelle : (7, -24)
+2025-01-27 00:11:25,349 - INFO - Direction 0: x BETWEEN 8 AND 22, y = -24
+2025-01-27 00:11:25,350 - INFO - Meilleure correspondance pour 'Dofus en bois': 'Dofus en bois' à la position (8, -24)
+2025-01-27 00:11:25,352 - INFO - Commande copiée dans le presse-papier : /travel 8 -24
+2025-01-27 00:11:33,686 - INFO - Map de l'indice (8, -24)
+2025-01-27 00:11:35,204 - INFO - On passe à l'indice : 3 / 5
+2025-01-27 00:11:35,632 - INFO - Texte extrait : 2 - Etoile en papier plié
+2025-01-27 00:11:35,632 - INFO - Coordonnées actuelle : (8, -24)
+2025-01-27 00:11:35,632 - INFO - Direction 2: y BETWEEN -23 AND -9, x = 8
+2025-01-27 00:11:35,634 - INFO - Meilleure correspondance pour 'Etoile en papier plié': 'Étoile en papier plié' à la position (8, -22)
+2025-01-27 00:11:35,635 - INFO - Commande copiée dans le presse-papier : /travel 8 -22
+2025-01-27 00:11:45,882 - INFO - Map de l'indice (8, -22)
+2025-01-27 00:11:47,376 - INFO - On passe à l'indice : 4 / 5
+2025-01-27 00:11:47,831 - INFO - Texte extrait : 4 - Gravure de papatte E
+2025-01-27 00:11:47,831 - INFO - Coordonnées actuelle : (8, -22)
+2025-01-27 00:11:47,831 - INFO - Direction 4: x BETWEEN -7 AND 7, y = -22
+2025-01-27 00:11:47,833 - INFO - Meilleure correspondance pour 'Gravure de papatte E': 'Gravure de papatte' à la position (5, -22)
+2025-01-27 00:11:47,835 - INFO - Commande copiée dans le presse-papier : /travel 5 -22
+2025-01-27 00:12:01,782 - INFO - Map de l'indice (5, -22)
+2025-01-27 00:12:03,279 - INFO - On passe à l'indice : 5 / 5
+2025-01-27 00:12:03,664 - INFO - Texte extrait : 4 - Rocher taillé en arétes
+
+e
+de poisson
+2025-01-27 00:12:03,664 - INFO - Coordonnées actuelle : (5, -22)
+2025-01-27 00:12:03,664 - INFO - Direction 4: x BETWEEN -10 AND 4, y = -22
+2025-01-27 00:12:03,665 - INFO - Meilleure correspondance pour 'Rocher taillé en arétes
+
+e
+de poisson': 'Rocher taillé en arètes de poisson' à la position (-5, -22)
+2025-01-27 00:12:03,668 - INFO - Commande copiée dans le presse-papier : /travel -5 -22
+2025-01-27 00:12:48,184 - INFO - Map de l'indice (-5, -22)
+2025-01-27 00:12:49,659 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:12:52,440 - INFO - Nombre d'indices détectés : 0
+2025-01-27 00:15:47,654 - INFO - Nombre d'indices détectés : 6
+2025-01-27 00:15:47,654 - INFO - On passe à l'indice : 1 / 6
+2025-01-27 00:15:48,088 - INFO - Texte extrait : 0 - Paire de lunertes
+2025-01-27 00:15:48,089 - INFO - Coordonnées actuelle : (3, -5)
+2025-01-27 00:15:48,089 - INFO - Direction 0: x BETWEEN 4 AND 18, y = -5
+2025-01-27 00:15:48,090 - INFO - Meilleure correspondance pour 'Paire de lunertes': 'Paire de lunettes' à la position (5, -5)
+2025-01-27 00:15:48,094 - INFO - Commande copiée dans le presse-papier : /travel 5 -5
+2025-01-27 00:15:58,027 - INFO - Map de l'indice (5, -5)
+2025-01-27 00:15:59,553 - INFO - On passe à l'indice : 2 / 6
+2025-01-27 00:16:00,011 - INFO - Texte extrait : 6 - Théiére 6 rayures
+2025-01-27 00:16:00,011 - INFO - Coordonnées actuelle : (5, -5)
+2025-01-27 00:16:00,011 - INFO - Direction 6: y BETWEEN -20 AND -6  x = 5
+2025-01-27 00:16:00,013 - INFO - Meilleure correspondance pour 'Théiére 6 rayures': 'Théière à rayures' à la position (5, -8)
+2025-01-27 00:16:00,016 - INFO - Commande copiée dans le presse-papier : /travel 5 -8
+2025-01-27 00:16:15,141 - INFO - Map de l'indice (5, -8)
+2025-01-27 00:16:16,698 - INFO - On passe à l'indice : 3 / 6
+2025-01-27 00:16:17,051 - INFO - Texte extrait : 4 - Théiére 6 rayures
+2025-01-27 00:16:17,051 - INFO - Coordonnées actuelle : (5, -8)
+2025-01-27 00:16:17,051 - INFO - Direction 4: x BETWEEN -10 AND 4, y = -8
+2025-01-27 00:16:17,053 - INFO - Meilleure correspondance pour 'Théiére 6 rayures': 'Arbre à trous' à la position (0, -8)
+2025-01-27 00:16:17,054 - INFO - Commande copiée dans le presse-papier : /travel 0 -8
+2025-01-27 00:16:45,353 - INFO - Map de l'indice (0, -8)
+2025-01-27 00:16:46,820 - INFO - On passe à l'indice : 4 / 6
+2025-01-27 00:16:47,268 - INFO - Texte extrait : 4 - Phorreur sournois
+2025-01-27 00:16:47,268 - INFO - Coordonnées actuelle : (0, -8)
+2025-01-27 00:16:47,268 - INFO - Direction 4: x BETWEEN -15 AND -1, y = -8
+2025-01-27 00:16:47,269 - INFO - 
+
+2025-01-27 00:16:47,269 - INFO - 
+
+2025-01-27 00:16:47,269 - INFO - ==============================
+2025-01-27 00:16:47,269 - INFO - 🚨  PHORREUR DÉTECTÉ  🚨
+2025-01-27 00:16:47,269 - INFO - Détection en cours
+2025-01-27 00:16:47,269 - INFO - ==============================
+
+2025-01-27 00:16:47,269 - INFO - 
+
+2025-01-27 00:16:47,269 - INFO - 
+
+2025-01-27 00:17:10,196 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:17:10,305 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:17:15,546 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:17:15,653 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:17:42,250 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:17:42,357 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:17:50,050 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:17:50,155 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:17:58,068 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:17:58,172 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:18:09,775 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:18:09,893 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:18:28,997 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:18:29,105 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:18:35,690 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:18:35,802 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:18:43,595 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:18:43,700 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:18:51,481 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:18:51,588 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:18:59,314 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:18:59,427 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:19:07,315 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:19:07,442 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:19:15,249 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:19:15,361 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:19:23,107 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:19:23,233 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:19:31,009 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:19:31,113 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:19:45,303 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:19:45,408 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:19:52,109 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:19:52,222 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:20:00,059 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:20:00,167 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:20:07,947 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:20:08,056 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:22:35,945 - INFO - Nombre d'indices détectés : 6
+2025-01-27 00:22:35,946 - INFO - On passe à l'indice : 1 / 6
+2025-01-27 00:22:36,414 - INFO - Texte extrait : 6 - Symbole de quéte peint
+2025-01-27 00:22:36,414 - INFO - Coordonnées actuelle : (5, 7)
+2025-01-27 00:22:36,414 - INFO - Direction 6: y BETWEEN -8 AND 6  x = 5
+2025-01-27 00:22:36,415 - INFO - Meilleure correspondance pour 'Symbole de quéte peint': 'Symbole de quête peint' à la position (5, 0)
+2025-01-27 00:22:36,419 - INFO - Commande copiée dans le presse-papier : /travel 5 0
+2025-01-27 00:23:06,493 - INFO - Map de l'indice (5, 0)
+2025-01-27 00:23:08,027 - INFO - On passe à l'indice : 2 / 6
+2025-01-27 00:23:08,470 - INFO - Texte extrait : 0 - Fleurs smiley
+2025-01-27 00:23:08,470 - INFO - Coordonnées actuelle : (5, 0)
+2025-01-27 00:23:08,470 - INFO - Direction 0: x BETWEEN 6 AND 20, y = 0
+2025-01-27 00:23:08,471 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (6, 0)
+2025-01-27 00:23:08,473 - INFO - Commande copiée dans le presse-papier : /travel 6 0
+2025-01-27 00:23:14,935 - INFO - Map de l'indice (6, 0)
+2025-01-27 00:23:16,559 - INFO - On passe à l'indice : 3 / 6
+2025-01-27 00:23:16,945 - INFO - Texte extrait : 0 - Marionette
+2025-01-27 00:23:16,945 - INFO - Coordonnées actuelle : (6, 0)
+2025-01-27 00:23:16,946 - INFO - Direction 0: x BETWEEN 7 AND 21, y = 0
+2025-01-27 00:23:16,947 - INFO - Meilleure correspondance pour 'Marionette': 'Marionnette' à la position (7, 0)
+2025-01-27 00:23:16,949 - INFO - Commande copiée dans le presse-papier : /travel 7 0
+2025-01-27 00:23:23,679 - INFO - Map de l'indice (7, 0)
+2025-01-27 00:23:25,087 - INFO - On passe à l'indice : 4 / 6
+2025-01-27 00:23:25,559 - INFO - Texte extrait : 0 - Ble noir et blanc
+2025-01-27 00:23:25,559 - INFO - Coordonnées actuelle : (7, 0)
+2025-01-27 00:23:25,559 - INFO - Direction 0: x BETWEEN 8 AND 22, y = 0
+2025-01-27 00:23:25,561 - INFO - Meilleure correspondance pour 'Ble noir et blanc': 'Blé noir et blanc' à la position (8, 0)
+2025-01-27 00:23:25,562 - INFO - Commande copiée dans le presse-papier : /travel 8 0
+2025-01-27 00:23:32,030 - INFO - Map de l'indice (8, 0)
+2025-01-27 00:23:33,440 - INFO - On passe à l'indice : 5 / 6
+2025-01-27 00:23:33,817 - INFO - Texte extrait : 2 - Peinture de Dofus
+2025-01-27 00:23:33,817 - INFO - Coordonnées actuelle : (8, 0)
+2025-01-27 00:23:33,818 - INFO - Direction 2: y BETWEEN 1 AND 15, x = 8
+2025-01-27 00:23:33,819 - INFO - Meilleure correspondance pour 'Peinture de Dofus': 'Peinture de Dofus' à la position (8, 2)
+2025-01-27 00:23:33,821 - INFO - Commande copiée dans le presse-papier : /travel 8 2
+2025-01-27 00:23:42,528 - INFO - Map de l'indice (8, 2)
+2025-01-27 00:23:43,995 - INFO - On passe à l'indice : 6 / 6
+2025-01-27 00:23:44,358 - INFO - Texte extrait : 0 - Gravure de Dofus
+2025-01-27 00:23:44,358 - INFO - Coordonnées actuelle : (8, 2)
+2025-01-27 00:23:44,358 - INFO - Direction 0: x BETWEEN 9 AND 23, y = 2
+2025-01-27 00:23:44,359 - INFO - Meilleure correspondance pour 'Gravure de Dofus': 'Gravure de Dofus' à la position (9, 2)
+2025-01-27 00:23:44,361 - INFO - Commande copiée dans le presse-papier : /travel 9 2
+2025-01-27 00:23:49,332 - INFO - Map de l'indice (9, 2)
+2025-01-27 00:23:50,743 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:23:54,102 - INFO - Nombre d'indices détectés : 4
+2025-01-27 00:23:54,102 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 00:23:54,468 - INFO - Texte extrait : 0 - Ble noir et blanc
+2025-01-27 00:23:54,469 - INFO - Coordonnées actuelle : (9, 2)
+2025-01-27 00:23:54,469 - INFO - Direction 0: x BETWEEN 10 AND 24, y = 2
+2025-01-27 00:23:54,470 - INFO - Meilleure correspondance pour 'Ble noir et blanc': 'Blé noir et blanc' à la position (10, 2)
+2025-01-27 00:23:54,474 - INFO - Commande copiée dans le presse-papier : /travel 10 2
+2025-01-27 00:24:01,378 - INFO - Map de l'indice (10, 2)
+2025-01-27 00:24:02,915 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 00:24:03,352 - INFO - Texte extrait : 2 - Gravure de Kama
+2025-01-27 00:24:03,352 - INFO - Coordonnées actuelle : (10, 2)
+2025-01-27 00:24:03,352 - INFO - Direction 2: y BETWEEN 3 AND 17, x = 10
+2025-01-27 00:24:03,354 - INFO - Meilleure correspondance pour 'Gravure de Kama': 'Gravure de Kama' à la position (10, 3)
+2025-01-27 00:24:03,356 - INFO - Commande copiée dans le presse-papier : /travel 10 3
+2025-01-27 00:24:10,136 - INFO - Map de l'indice (10, 3)
+2025-01-27 00:24:11,730 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 00:24:12,239 - INFO - Texte extrait : 0 - Fleurs smiley
+2025-01-27 00:24:12,239 - INFO - Coordonnées actuelle : (10, 3)
+2025-01-27 00:24:12,240 - INFO - Direction 0: x BETWEEN 11 AND 25, y = 3
+2025-01-27 00:24:12,241 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (12, 3)
+2025-01-27 00:24:12,244 - INFO - Commande copiée dans le presse-papier : /travel 12 3
+2025-01-27 00:24:24,339 - INFO - Map de l'indice (12, 3)
+2025-01-27 00:24:25,795 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 00:24:26,186 - INFO - Texte extrait : 4 - Clef dorée
+2025-01-27 00:24:26,186 - INFO - Coordonnées actuelle : (12, 3)
+2025-01-27 00:24:26,186 - INFO - Direction 4: x BETWEEN -3 AND 11, y = 3
+2025-01-27 00:24:26,187 - INFO - Meilleure correspondance pour 'Clef dorée': 'Clef dorée' à la position (9, 3)
+2025-01-27 00:24:26,189 - INFO - Commande copiée dans le presse-papier : /travel 9 3
+2025-01-27 00:24:38,044 - INFO - Map de l'indice (9, 3)
+2025-01-27 00:24:39,542 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:24:42,240 - INFO - Nombre d'indices détectés : 1
+2025-01-27 00:24:42,242 - INFO - On passe à l'indice : 1 / 1
+2025-01-27 00:24:42,686 - INFO - Texte extrait : 2 - Croix en pierre brisee
+2025-01-27 00:24:42,686 - INFO - Coordonnées actuelle : (9, 3)
+2025-01-27 00:24:42,686 - INFO - Direction 2: y BETWEEN 4 AND 18, x = 9
+2025-01-27 00:24:42,688 - INFO - Meilleure correspondance pour 'Croix en pierre brisee': 'Croix en pierre brisée' à la position (9, 13)
+2025-01-27 00:24:42,690 - INFO - Commande copiée dans le presse-papier : /travel 9 13
+2025-01-27 00:25:23,336 - INFO - Map de l'indice (9, 13)
+2025-01-27 00:25:24,866 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:28:20,953 - INFO - Nombre d'indices détectés : 4
+2025-01-27 00:28:20,953 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 00:28:21,436 - INFO - Texte extrait : 0 - Etoile jaune peinte ic
+2025-01-27 00:28:21,437 - INFO - Coordonnées actuelle : (3, -5)
+2025-01-27 00:28:21,437 - INFO - Direction 0: x BETWEEN 4 AND 18, y = -5
+2025-01-27 00:28:21,438 - INFO - Meilleure correspondance pour 'Etoile jaune peinte ic': 'Étoile jaune peinte' à la position (7, -5)
+2025-01-27 00:28:21,442 - INFO - Commande copiée dans le presse-papier : /travel 7 -5
+2025-01-27 00:28:38,624 - INFO - Map de l'indice (7, -5)
+2025-01-27 00:28:40,072 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 00:28:40,492 - INFO - Texte extrait : 4 - Croix en pierre brisée
+2025-01-27 00:28:40,492 - INFO - Coordonnées actuelle : (7, -5)
+2025-01-27 00:28:40,493 - INFO - Direction 4: x BETWEEN -8 AND 6, y = -5
+2025-01-27 00:28:40,494 - INFO - Meilleure correspondance pour 'Croix en pierre brisée': 'Croix en pierre brisée' à la position (6, -5)
+2025-01-27 00:28:40,495 - INFO - Commande copiée dans le presse-papier : /travel 6 -5
+2025-01-27 00:28:45,533 - INFO - Map de l'indice (6, -5)
+2025-01-27 00:28:47,017 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 00:28:47,399 - INFO - Texte extrait : 6 - Bonbon bleu
+2025-01-27 00:28:47,399 - INFO - Coordonnées actuelle : (6, -5)
+2025-01-27 00:28:47,399 - INFO - Direction 6: y BETWEEN -20 AND -6  x = 6
+2025-01-27 00:28:47,402 - INFO - Meilleure correspondance pour 'Bonbon bleu': 'Bonbon bleu' à la position (6, -8)
+2025-01-27 00:28:47,404 - INFO - Commande copiée dans le presse-papier : /travel 6 -8
+2025-01-27 00:29:01,385 - INFO - Map de l'indice (6, -8)
+2025-01-27 00:29:02,803 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 00:29:03,200 - INFO - Texte extrait : 4 - Minouki
+2025-01-27 00:29:03,200 - INFO - Coordonnées actuelle : (6, -8)
+2025-01-27 00:29:03,201 - INFO - Direction 4: x BETWEEN -9 AND 5, y = -8
+2025-01-27 00:29:03,203 - INFO - Meilleure correspondance pour 'Minouki': 'Tricycle' à la position (4, -8)
+2025-01-27 00:29:03,204 - INFO - Commande copiée dans le presse-papier : /travel 4 -8
+2025-01-27 00:29:11,714 - INFO - Map de l'indice (4, -8)
+2025-01-27 00:29:13,308 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:29:16,059 - INFO - Nombre d'indices détectés : 4
+2025-01-27 00:29:16,059 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 00:29:16,465 - INFO - Texte extrait : 0 - Etoile jaune peinte
+2025-01-27 00:29:16,465 - INFO - Coordonnées actuelle : (4, -8)
+2025-01-27 00:29:16,465 - INFO - Direction 0: x BETWEEN 5 AND 19, y = -8
+2025-01-27 00:29:16,467 - INFO - Meilleure correspondance pour 'Etoile jaune peinte': 'Ceinture cloutée' à la position (5, -8)
+2025-01-27 00:29:16,470 - INFO - Commande copiée dans le presse-papier : /travel 5 -8
+2025-01-27 00:29:23,001 - INFO - Map de l'indice (5, -8)
+2025-01-27 00:29:24,418 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 00:29:24,843 - INFO - Texte extrait : 6 - Bonbon bleu
+2025-01-27 00:29:24,843 - INFO - Coordonnées actuelle : (5, -8)
+2025-01-27 00:29:24,843 - INFO - Direction 6: y BETWEEN -23 AND -9  x = 5
+2025-01-27 00:29:24,846 - INFO - Meilleure correspondance pour 'Bonbon bleu': 'Bonbon bleu' à la position (5, -13)
+2025-01-27 00:29:24,847 - INFO - Commande copiée dans le presse-papier : /travel 5 -13
+2025-01-27 00:29:52,521 - INFO - Map de l'indice (5, -13)
+2025-01-27 00:29:53,976 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 00:32:12,672 - INFO - Nombre d'indices détectés : 4
+2025-01-27 00:32:12,672 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 00:32:13,074 - INFO - Texte extrait : 4 - Fleurs smiley
+2025-01-27 00:32:13,074 - INFO - Coordonnées actuelle : (1, -32)
+2025-01-27 00:32:13,074 - INFO - Direction 4: x BETWEEN -14 AND 0, y = -32
+2025-01-27 00:32:13,076 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (-2, -32)
+2025-01-27 00:32:13,079 - INFO - Commande copiée dans le presse-papier : /travel -2 -32
+2025-01-27 00:32:27,091 - INFO - Map de l'indice (-2, -32)
+2025-01-27 00:32:28,530 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 00:32:28,892 - INFO - Texte extrait : 2 - Gravure de chacha
+2025-01-27 00:32:28,892 - INFO - Coordonnées actuelle : (-2, -32)
+2025-01-27 00:32:28,892 - INFO - Direction 2: y BETWEEN -31 AND -17, x = -2
+2025-01-27 00:32:28,894 - INFO - Meilleure correspondance pour 'Gravure de chacha': 'Gravure de chacha' à la position (-2, -22)
+2025-01-27 00:32:28,895 - INFO - Commande copiée dans le presse-papier : /travel -2 -22
+2025-01-27 00:33:08,318 - INFO - Map de l'indice (-2, -22)
+2025-01-27 00:33:09,897 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 00:33:10,265 - INFO - Texte extrait : 2 - Hache brisée
+2025-01-27 00:33:10,265 - INFO - Coordonnées actuelle : (-2, -22)
+2025-01-27 00:33:10,265 - INFO - Direction 2: y BETWEEN -21 AND -7, x = -2
+2025-01-27 00:33:10,267 - INFO - Meilleure correspondance pour 'Hache brisée': 'Hache brisée' à la position (-2, -12)
+2025-01-27 00:33:10,269 - INFO - Commande copiée dans le presse-papier : /travel -2 -12
+2025-01-27 00:33:50,577 - INFO - Map de l'indice (-2, -12)
+2025-01-27 00:33:52,151 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 00:33:52,532 - INFO - Texte extrait : 0 - Talisman en papier E
+2025-01-27 00:33:52,532 - INFO - Coordonnées actuelle : (-2, -12)
+2025-01-27 00:33:52,533 - INFO - Direction 0: x BETWEEN -1 AND 13, y = -12
+2025-01-27 00:33:52,534 - INFO - Meilleure correspondance pour 'Talisman en papier E': 'Talisman en papier' à la position (-1, -12)
+2025-01-27 00:33:52,536 - INFO - Commande copiée dans le presse-papier : /travel -1 -12
+2025-01-27 00:33:57,471 - INFO - Map de l'indice (-1, -12)
+2025-01-27 00:33:58,951 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:34:01,912 - INFO - Nombre d'indices détectés : 6
+2025-01-27 00:34:01,913 - INFO - On passe à l'indice : 1 / 6
+2025-01-27 00:34:02,316 - INFO - Texte extrait : 0 - Dofus en bois
+2025-01-27 00:34:02,316 - INFO - Coordonnées actuelle : (-1, -12)
+2025-01-27 00:34:02,318 - INFO - Direction 0: x BETWEEN 0 AND 14, y = -12
+2025-01-27 00:34:02,319 - INFO - Meilleure correspondance pour 'Dofus en bois': 'Dofus en bois' à la position (0, -12)
+2025-01-27 00:34:02,322 - INFO - Commande copiée dans le presse-papier : /travel 0 -12
+2025-01-27 00:34:09,072 - INFO - Map de l'indice (0, -12)
+2025-01-27 00:34:10,587 - INFO - On passe à l'indice : 2 / 6
+2025-01-27 00:34:11,015 - INFO - Texte extrait : 0 - Théiére 6 rayures
+2025-01-27 00:34:11,015 - INFO - Coordonnées actuelle : (0, -12)
+2025-01-27 00:34:11,015 - INFO - Direction 0: x BETWEEN 1 AND 15, y = -12
+2025-01-27 00:34:11,017 - INFO - Meilleure correspondance pour 'Théiére 6 rayures': 'Théière à rayures' à la position (1, -12)
+2025-01-27 00:34:11,019 - INFO - Commande copiée dans le presse-papier : /travel 1 -12
+2025-01-27 00:34:17,777 - INFO - Map de l'indice (1, -12)
+2025-01-27 00:34:19,291 - INFO - On passe à l'indice : 3 / 6
+2025-01-27 00:34:19,693 - INFO - Texte extrait : 0 - Crane de likrone
+2025-01-27 00:34:19,693 - INFO - Coordonnées actuelle : (1, -12)
+2025-01-27 00:34:19,695 - INFO - Direction 0: x BETWEEN 2 AND 16, y = -12
+2025-01-27 00:34:19,696 - INFO - Meilleure correspondance pour 'Crane de likrone': 'Crâne de likrone' à la position (3, -12)
+2025-01-27 00:34:19,699 - INFO - Commande copiée dans le presse-papier : /travel 3 -12
+2025-01-27 00:34:30,001 - INFO - Map de l'indice (3, -12)
+2025-01-27 00:34:31,480 - INFO - On passe à l'indice : 4 / 6
+2025-01-27 00:34:31,889 - INFO - Texte extrait : 0 - Fléche dans une pomme
+2025-01-27 00:34:31,889 - INFO - Coordonnées actuelle : (3, -12)
+2025-01-27 00:34:31,889 - INFO - Direction 0: x BETWEEN 4 AND 18, y = -12
+2025-01-27 00:34:31,891 - INFO - Meilleure correspondance pour 'Fléche dans une pomme': 'Flèche dans une pomme' à la position (4, -12)
+2025-01-27 00:34:31,892 - INFO - Commande copiée dans le presse-papier : /travel 4 -12
+2025-01-27 00:34:38,752 - INFO - Map de l'indice (4, -12)
+2025-01-27 00:34:40,259 - INFO - On passe à l'indice : 5 / 6
+2025-01-27 00:34:40,677 - INFO - Texte extrait : 0 - Gravure de spirale
+2025-01-27 00:34:40,677 - INFO - Coordonnées actuelle : (4, -12)
+2025-01-27 00:34:40,678 - INFO - Direction 0: x BETWEEN 5 AND 19, y = -12
+2025-01-27 00:34:40,679 - INFO - Meilleure correspondance pour 'Gravure de spirale': 'Gravure de spirale' à la position (5, -12)
+2025-01-27 00:34:40,680 - INFO - Commande copiée dans le presse-papier : /travel 5 -12
+2025-01-27 00:34:47,556 - INFO - Map de l'indice (5, -12)
+2025-01-27 00:34:49,099 - INFO - On passe à l'indice : 6 / 6
+2025-01-27 00:34:49,602 - INFO - Texte extrait : 0 - Bougie dans un trou
+2025-01-27 00:34:49,602 - INFO - Coordonnées actuelle : (5, -12)
+2025-01-27 00:34:49,603 - INFO - Direction 0: x BETWEEN 6 AND 20, y = -12
+2025-01-27 00:34:49,604 - INFO - Meilleure correspondance pour 'Bougie dans un trou': 'Bougie dans un trou' à la position (6, -12)
+2025-01-27 00:34:49,606 - INFO - Commande copiée dans le presse-papier : /travel 6 -12
+2025-01-27 00:34:56,537 - INFO - Map de l'indice (6, -12)
+2025-01-27 00:34:58,080 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:35:01,055 - INFO - Nombre d'indices détectés : 1
+2025-01-27 00:35:01,056 - INFO - On passe à l'indice : 1 / 1
+2025-01-27 00:35:01,456 - INFO - Texte extrait : 0 - Poisson grillé embroché
+2025-01-27 00:35:01,456 - INFO - Coordonnées actuelle : (6, -12)
+2025-01-27 00:35:01,456 - INFO - Direction 0: x BETWEEN 7 AND 21, y = -12
+2025-01-27 00:35:01,457 - INFO - Meilleure correspondance pour 'Poisson grillé embroché': 'Poisson grillé embroché' à la position (7, -12)
+2025-01-27 00:35:01,460 - INFO - Commande copiée dans le presse-papier : /travel 7 -12
+2025-01-27 00:35:08,108 - INFO - Map de l'indice (7, -12)
+2025-01-27 00:35:09,674 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:38:05,349 - INFO - Nombre d'indices détectés : 4
+2025-01-27 00:38:05,349 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 00:38:05,742 - INFO - Texte extrait : 2 - Marionette
+2025-01-27 00:38:05,742 - INFO - Coordonnées actuelle : (-5, -23)
+2025-01-27 00:38:05,743 - INFO - Direction 2: y BETWEEN -22 AND -8, x = -5
+2025-01-27 00:38:05,744 - INFO - Meilleure correspondance pour 'Marionette': 'Marionnette' à la position (-5, -16)
+2025-01-27 00:38:05,747 - INFO - Commande copiée dans le presse-papier : /travel -5 -16
+2025-01-27 00:38:32,628 - INFO - Map de l'indice (-5, -16)
+2025-01-27 00:38:34,224 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 00:38:34,663 - INFO - Texte extrait : 4 - Phorreur sournois
+2025-01-27 00:38:34,663 - INFO - Coordonnées actuelle : (-5, -16)
+2025-01-27 00:38:34,663 - INFO - Direction 4: x BETWEEN -20 AND -6, y = -16
+2025-01-27 00:38:34,665 - INFO - 
+
+2025-01-27 00:38:34,665 - INFO - 
+
+2025-01-27 00:38:34,665 - INFO - ==============================
+2025-01-27 00:38:34,665 - INFO - 🚨  PHORREUR DÉTECTÉ  🚨
+2025-01-27 00:38:34,665 - INFO - Détection en cours
+2025-01-27 00:38:34,666 - INFO - ==============================
+
+2025-01-27 00:38:34,666 - INFO - 
+
+2025-01-27 00:38:34,666 - INFO - 
+
+2025-01-27 00:38:41,176 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:38:41,274 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:38:49,248 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:38:49,354 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:38:57,265 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:38:57,368 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:39:05,172 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:39:05,272 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:39:13,063 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:39:13,171 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:39:20,790 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:39:20,909 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:39:28,595 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:39:28,700 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:39:36,499 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:39:36,606 - ERROR - Aucune correspondance trouvée pour [sournois] avec un score suffisant.
+2025-01-27 00:39:44,264 - INFO - On cherche un phorreur : Phorreur sournois
+2025-01-27 00:39:44,372 - INFO - Map de l'indice (-14, -16)
+2025-01-27 00:39:45,966 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 00:39:46,358 - INFO - Texte extrait : 4 - Bougie dans un trou
+2025-01-27 00:39:46,358 - INFO - Coordonnées actuelle : (-14, -16)
+2025-01-27 00:39:46,358 - INFO - Direction 4: x BETWEEN -29 AND -15, y = -16
+2025-01-27 00:39:46,360 - INFO - Meilleure correspondance pour 'Bougie dans un trou': 'Bougie dans un trou' à la position (-22, -16)
+2025-01-27 00:39:46,362 - INFO - Commande copiée dans le presse-papier : /travel -22 -16
+2025-01-27 00:40:19,509 - INFO - Map de l'indice (-22, -16)
+2025-01-27 00:40:21,049 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 00:40:21,436 - INFO - Texte extrait : 2 - Gravure dceil
+2025-01-27 00:40:21,436 - INFO - Coordonnées actuelle : (-22, -16)
+2025-01-27 00:40:21,436 - INFO - Direction 2: y BETWEEN -15 AND -1, x = -22
+2025-01-27 00:40:21,437 - INFO - Meilleure correspondance pour 'Gravure dceil': 'Gravure d'oeil' à la position (-22, -7)
+2025-01-27 00:40:21,439 - INFO - Commande copiée dans le presse-papier : /travel -22 -7
+2025-01-27 00:40:56,603 - INFO - Map de l'indice (-22, -7)
+2025-01-27 00:40:58,125 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:41:01,515 - INFO - Nombre d'indices détectés : 4
+2025-01-27 00:41:01,515 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 00:41:01,910 - INFO - Texte extrait : 4 - Fleurs smiley
+2025-01-27 00:41:01,910 - INFO - Coordonnées actuelle : (-22, -7)
+2025-01-27 00:41:01,910 - INFO - Direction 4: x BETWEEN -37 AND -23, y = -7
+2025-01-27 00:41:01,911 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (-23, -7)
+2025-01-27 00:41:01,915 - INFO - Commande copiée dans le presse-papier : /travel -23 -7
+2025-01-27 00:41:08,498 - INFO - Map de l'indice (-23, -7)
+2025-01-27 00:41:10,117 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 00:41:10,544 - INFO - Texte extrait : 2 - Clef dorée
+2025-01-27 00:41:10,545 - INFO - Coordonnées actuelle : (-23, -7)
+2025-01-27 00:41:10,545 - INFO - Direction 2: y BETWEEN -6 AND 8, x = -23
+2025-01-27 00:41:10,546 - INFO - Meilleure correspondance pour 'Clef dorée': 'Clef dorée' à la position (-23, -6)
+2025-01-27 00:41:10,548 - INFO - Commande copiée dans le presse-papier : /travel -23 -6
+2025-01-27 00:41:17,135 - INFO - Map de l'indice (-23, -6)
+2025-01-27 00:41:18,576 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 00:41:18,961 - INFO - Texte extrait : 2 - Gravure dceil
+2025-01-27 00:41:18,961 - INFO - Coordonnées actuelle : (-23, -6)
+2025-01-27 00:41:18,962 - INFO - Direction 2: y BETWEEN -5 AND 9, x = -23
+2025-01-27 00:41:18,963 - INFO - Meilleure correspondance pour 'Gravure dceil': 'Gravure d'oeil' à la position (-23, -5)
+2025-01-27 00:41:18,965 - INFO - Commande copiée dans le presse-papier : /travel -23 -5
+2025-01-27 00:41:25,739 - INFO - Map de l'indice (-23, -5)
+2025-01-27 00:41:27,300 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 00:41:27,713 - INFO - Texte extrait : 2 - Gravure de rose des
+vents
+2025-01-27 00:41:27,713 - INFO - Coordonnées actuelle : (-23, -5)
+2025-01-27 00:41:27,714 - INFO - Direction 2: y BETWEEN -4 AND 10, x = -23
+2025-01-27 00:41:27,715 - INFO - Meilleure correspondance pour 'Gravure de rose des
+vents': 'Gravure de rose des vents' à la position (-23, -4)
+2025-01-27 00:41:27,716 - INFO - Commande copiée dans le presse-papier : /travel -23 -4
+2025-01-27 00:41:34,363 - INFO - Map de l'indice (-23, -4)
+2025-01-27 00:41:35,999 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:41:38,579 - INFO - Nombre d'indices détectés : 3
+2025-01-27 00:41:38,579 - INFO - On passe à l'indice : 1 / 3
+2025-01-27 00:41:38,953 - INFO - Texte extrait : 4 - Clef dorée
+2025-01-27 00:41:38,953 - INFO - Coordonnées actuelle : (-23, -4)
+2025-01-27 00:41:38,954 - INFO - Direction 4: x BETWEEN -38 AND -24, y = -4
+2025-01-27 00:41:38,955 - INFO - Meilleure correspondance pour 'Clef dorée': 'Clef dorée' à la position (-25, -4)
+2025-01-27 00:41:38,958 - INFO - Commande copiée dans le presse-papier : /travel -25 -4
+2025-01-27 00:41:48,849 - INFO - Map de l'indice (-25, -4)
+2025-01-27 00:41:50,293 - INFO - On passe à l'indice : 2 / 3
+2025-01-27 00:41:50,756 - INFO - Texte extrait : 4 - Clef dorée
+2025-01-27 00:41:50,756 - INFO - Coordonnées actuelle : (-25, -4)
+2025-01-27 00:41:50,756 - INFO - Direction 4: x BETWEEN -40 AND -26, y = -4
+2025-01-27 00:41:50,757 - INFO - Meilleure correspondance pour 'Clef dorée': 'Clef dorée' à la position (-27, -4)
+2025-01-27 00:41:50,760 - INFO - Commande copiée dans le presse-papier : /travel -27 -4
+2025-01-27 00:42:02,651 - INFO - Map de l'indice (-27, -4)
+2025-01-27 00:42:04,287 - INFO - On passe à l'indice : 3 / 3
+2025-01-27 00:42:04,653 - INFO - Texte extrait : 0 - Symbole de quéte peint
+2025-01-27 00:42:04,653 - INFO - Coordonnées actuelle : (-27, -4)
+2025-01-27 00:42:04,653 - INFO - Direction 0: x BETWEEN -26 AND -12, y = -4
+2025-01-27 00:42:04,655 - INFO - Meilleure correspondance pour 'Symbole de quéte peint': 'Symbole de quête peint' à la position (-26, -4)
+2025-01-27 00:42:04,656 - INFO - Commande copiée dans le presse-papier : /travel -26 -4
+2025-01-27 00:42:07,765 - INFO - Map de l'indice (-26, -4)
+2025-01-27 00:42:09,360 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:45:38,709 - INFO - Nombre d'indices détectés : 6
+2025-01-27 00:45:38,709 - INFO - On passe à l'indice : 1 / 6
+2025-01-27 00:45:39,122 - INFO - Texte extrait : 0 - Bouton de couture
+2025-01-27 00:45:39,122 - INFO - Coordonnées actuelle : (-1, 8)
+2025-01-27 00:45:39,122 - INFO - Direction 0: x BETWEEN 0 AND 14, y = 8
+2025-01-27 00:45:39,124 - INFO - Meilleure correspondance pour 'Bouton de couture': 'Bouton de couture' à la position (1, 8)
+2025-01-27 00:45:39,127 - INFO - Commande copiée dans le presse-papier : /travel 1 8
+2025-01-27 00:45:49,613 - INFO - Map de l'indice (1, 8)
+2025-01-27 00:45:51,161 - INFO - On passe à l'indice : 2 / 6
+2025-01-27 00:45:51,590 - INFO - Texte extrait : 6 - Gravure de lune
+2025-01-27 00:45:51,590 - INFO - Coordonnées actuelle : (1, 8)
+2025-01-27 00:45:51,591 - INFO - Direction 6: y BETWEEN -7 AND 7  x = 1
+2025-01-27 00:45:51,592 - INFO - Meilleure correspondance pour 'Gravure de lune': 'Gravure de lune' à la position (1, 0)
+2025-01-27 00:45:51,594 - INFO - Commande copiée dans le presse-papier : /travel 1 0
+2025-01-27 00:46:25,752 - INFO - Map de l'indice (1, 0)
+2025-01-27 00:46:27,283 - INFO - On passe à l'indice : 3 / 6
+2025-01-27 00:46:27,664 - INFO - Texte extrait : 4 - Gravure dceil
+2025-01-27 00:46:27,664 - INFO - Coordonnées actuelle : (1, 0)
+2025-01-27 00:46:27,664 - INFO - Direction 4: x BETWEEN -14 AND 0, y = 0
+2025-01-27 00:46:27,666 - INFO - Meilleure correspondance pour 'Gravure dceil': 'Gravure d'oeil' à la position (0, 0)
+2025-01-27 00:46:27,667 - INFO - Commande copiée dans le presse-papier : /travel 0 0
+2025-01-27 00:46:34,458 - INFO - Map de l'indice (0, 0)
+2025-01-27 00:46:35,902 - INFO - On passe à l'indice : 4 / 6
+2025-01-27 00:46:36,267 - INFO - Texte extrait : 2 - uf dans un trou
+2025-01-27 00:46:36,267 - INFO - Coordonnées actuelle : (0, 0)
+2025-01-27 00:46:36,268 - INFO - Direction 2: y BETWEEN 1 AND 15, x = 0
+2025-01-27 00:46:36,269 - INFO - Meilleure correspondance pour 'uf dans un trou': 'Œuf dans un trou' à la position (0, 1)
+2025-01-27 00:46:36,272 - INFO - Commande copiée dans le presse-papier : /travel 0 1
+2025-01-27 00:46:41,224 - INFO - Map de l'indice (0, 1)
+2025-01-27 00:46:42,817 - INFO - On passe à l'indice : 5 / 6
+2025-01-27 00:46:43,275 - INFO - Texte extrait : 4 - Clef dorée
+2025-01-27 00:46:43,275 - INFO - Coordonnées actuelle : (0, 1)
+2025-01-27 00:46:43,276 - INFO - Direction 4: x BETWEEN -15 AND -1, y = 1
+2025-01-27 00:46:43,277 - INFO - Meilleure correspondance pour 'Clef dorée': 'Clef dorée' à la position (-1, 1)
+2025-01-27 00:46:43,279 - INFO - Commande copiée dans le presse-papier : /travel -1 1
+2025-01-27 00:46:49,650 - INFO - Map de l'indice (-1, 1)
+2025-01-27 00:46:51,232 - INFO - On passe à l'indice : 6 / 6
+2025-01-27 00:46:51,672 - INFO - Texte extrait : 4 - Gravure de lune
+2025-01-27 00:46:51,672 - INFO - Coordonnées actuelle : (-1, 1)
+2025-01-27 00:46:51,672 - INFO - Direction 4: x BETWEEN -16 AND -2, y = 1
+2025-01-27 00:46:51,673 - INFO - Meilleure correspondance pour 'Gravure de lune': 'Gravure de lune' à la position (-2, 1)
+2025-01-27 00:46:51,675 - INFO - Commande copiée dans le presse-papier : /travel -2 1
+2025-01-27 00:46:58,434 - INFO - Map de l'indice (-2, 1)
+2025-01-27 00:47:00,032 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:47:02,886 - INFO - Nombre d'indices détectés : 5
+2025-01-27 00:47:02,886 - INFO - On passe à l'indice : 1 / 5
+2025-01-27 00:47:03,287 - INFO - Texte extrait : 6 - Crane dans un trou e
+2025-01-27 00:47:03,287 - INFO - Coordonnées actuelle : (-2, 1)
+2025-01-27 00:47:03,287 - INFO - Direction 6: y BETWEEN -14 AND 0  x = -2
+2025-01-27 00:47:03,289 - INFO - Meilleure correspondance pour 'Crane dans un trou e': 'Crâne dans un trou' à la position (-2, -8)
+2025-01-27 00:47:03,291 - INFO - Commande copiée dans le presse-papier : /travel -2 -8
+2025-01-27 00:47:40,125 - INFO - Map de l'indice (-2, -8)
+2025-01-27 00:47:41,677 - INFO - On passe à l'indice : 2 / 5
+2025-01-27 00:47:42,071 - INFO - Texte extrait : 0 - Gravure de clef
+2025-01-27 00:47:42,071 - INFO - Coordonnées actuelle : (-2, -8)
+2025-01-27 00:47:42,072 - INFO - Direction 0: x BETWEEN -1 AND 13, y = -8
+2025-01-27 00:47:42,073 - INFO - Meilleure correspondance pour 'Gravure de clef': 'Gravure de clef' à la position (-1, -8)
+2025-01-27 00:47:42,075 - INFO - Commande copiée dans le presse-papier : /travel -1 -8
+2025-01-27 00:47:48,552 - INFO - Map de l'indice (-1, -8)
+2025-01-27 00:47:50,129 - INFO - On passe à l'indice : 3 / 5
+2025-01-27 00:47:50,499 - INFO - Texte extrait : 6 - Echelle cossée
+2025-01-27 00:47:50,499 - INFO - Coordonnées actuelle : (-1, -8)
+2025-01-27 00:47:50,499 - INFO - Direction 6: y BETWEEN -23 AND -9  x = -1
+2025-01-27 00:47:50,500 - INFO - Meilleure correspondance pour 'Echelle cossée': 'Échelle cassée' à la position (-1, -14)
+2025-01-27 00:47:50,502 - INFO - Commande copiée dans le presse-papier : /travel -1 -14
+2025-01-27 00:48:14,481 - INFO - Map de l'indice (-1, -14)
+2025-01-27 00:48:15,982 - INFO - On passe à l'indice : 4 / 5
+2025-01-27 00:48:16,398 - INFO - Texte extrait : 6 - Cairn
+2025-01-27 00:48:16,398 - INFO - Coordonnées actuelle : (-1, -14)
+2025-01-27 00:48:16,398 - INFO - Direction 6: y BETWEEN -29 AND -15  x = -1
+2025-01-27 00:48:16,400 - INFO - Meilleure correspondance pour 'Cairn': 'Cairn' à la position (-1, -24)
+2025-01-27 00:48:16,402 - INFO - Commande copiée dans le presse-papier : /travel -1 -24
+2025-01-27 00:48:58,276 - INFO - Map de l'indice (-1, -24)
+2025-01-27 00:48:59,735 - INFO - On passe à l'indice : 5 / 5
+2025-01-27 00:49:00,163 - INFO - Texte extrait : 0 - Fléche dans une pomme
+2025-01-27 00:49:00,163 - INFO - Coordonnées actuelle : (-1, -24)
+2025-01-27 00:49:00,163 - INFO - Direction 0: x BETWEEN 0 AND 14, y = -24
+2025-01-27 00:49:00,166 - INFO - Meilleure correspondance pour 'Fléche dans une pomme': 'Flèche dans une pomme' à la position (1, -24)
+2025-01-27 00:49:00,168 - INFO - Commande copiée dans le presse-papier : /travel 1 -24
+2025-01-27 00:49:10,339 - INFO - Map de l'indice (1, -24)
+2025-01-27 00:49:11,788 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:49:15,158 - INFO - Nombre d'indices détectés : 0
+2025-01-27 00:52:50,246 - INFO - Nombre d'indices détectés : 6
+2025-01-27 00:52:50,246 - INFO - On passe à l'indice : 1 / 6
+2025-01-27 00:52:50,629 - INFO - Texte extrait : 6 - Gravure daile
+2025-01-27 00:52:50,629 - INFO - Coordonnées actuelle : (-6, -53)
+2025-01-27 00:52:50,629 - INFO - Direction 6: y BETWEEN -68 AND -54  x = -6
+2025-01-27 00:52:50,630 - INFO - Meilleure correspondance pour 'Gravure daile': 'Gravure d'aile' à la position (-6, -58)
+2025-01-27 00:52:50,633 - INFO - Commande copiée dans le presse-papier : /travel -6 -58
+2025-01-27 00:53:13,354 - INFO - Map de l'indice (-6, -58)
+2025-01-27 00:53:14,902 - INFO - On passe à l'indice : 2 / 6
+2025-01-27 00:53:15,291 - INFO - Texte extrait : 4 - Tissu 4 correaux noué
+2025-01-27 00:53:15,291 - INFO - Coordonnées actuelle : (-6, -58)
+2025-01-27 00:53:15,292 - INFO - Direction 4: x BETWEEN -21 AND -7, y = -58
+2025-01-27 00:53:15,293 - INFO - Meilleure correspondance pour 'Tissu 4 correaux noué': 'Tissu à carreaux noué' à la position (-16, -58)
+2025-01-27 00:53:15,296 - INFO - Commande copiée dans le presse-papier : /travel -16 -58
+2025-01-27 00:53:56,369 - INFO - Map de l'indice (-16, -58)
+2025-01-27 00:53:57,901 - INFO - On passe à l'indice : 3 / 6
+2025-01-27 00:53:58,273 - INFO - Texte extrait : 4 - Crane dans un trou E
+2025-01-27 00:53:58,273 - INFO - Coordonnées actuelle : (-16, -58)
+2025-01-27 00:53:58,274 - INFO - Direction 4: x BETWEEN -31 AND -17, y = -58
+2025-01-27 00:53:58,275 - INFO - Meilleure correspondance pour 'Crane dans un trou E': 'Crâne dans un trou' à la position (-17, -58)
+2025-01-27 00:53:58,277 - INFO - Commande copiée dans le presse-papier : /travel -17 -58
+2025-01-27 00:54:05,209 - INFO - Map de l'indice (-17, -58)
+2025-01-27 00:54:06,632 - INFO - On passe à l'indice : 4 / 6
+2025-01-27 00:54:07,091 - INFO - Texte extrait : 4 - Crane de Roublard
+2025-01-27 00:54:07,092 - INFO - Coordonnées actuelle : (-17, -58)
+2025-01-27 00:54:07,092 - INFO - Direction 4: x BETWEEN -32 AND -18, y = -58
+2025-01-27 00:54:07,093 - INFO - Meilleure correspondance pour 'Crane de Roublard': 'Crâne de Roublard' à la position (-18, -58)
+2025-01-27 00:54:07,095 - INFO - Commande copiée dans le presse-papier : /travel -18 -58
+2025-01-27 00:54:14,026 - INFO - Map de l'indice (-18, -58)
+2025-01-27 00:54:15,571 - INFO - On passe à l'indice : 5 / 6
+2025-01-27 00:54:15,982 - INFO - Texte extrait : 4 - Fleurs smiley
+2025-01-27 00:54:15,982 - INFO - Coordonnées actuelle : (-18, -58)
+2025-01-27 00:54:15,983 - INFO - Direction 4: x BETWEEN -33 AND -19, y = -58
+2025-01-27 00:54:15,984 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (-19, -58)
+2025-01-27 00:54:15,986 - INFO - Commande copiée dans le presse-papier : /travel -19 -58
+2025-01-27 00:54:22,493 - INFO - Map de l'indice (-19, -58)
+2025-01-27 00:54:24,066 - INFO - On passe à l'indice : 6 / 6
+2025-01-27 00:54:24,546 - INFO - Texte extrait : 2 - Crane de Roublard
+2025-01-27 00:54:24,546 - INFO - Coordonnées actuelle : (-19, -58)
+2025-01-27 00:54:24,548 - INFO - Direction 2: y BETWEEN -57 AND -43, x = -19
+2025-01-27 00:54:24,549 - INFO - Meilleure correspondance pour 'Crane de Roublard': 'Crâne de Roublard' à la position (-19, -57)
+2025-01-27 00:54:24,550 - INFO - Commande copiée dans le presse-papier : /travel -19 -57
+2025-01-27 00:54:31,441 - INFO - Map de l'indice (-19, -57)
+2025-01-27 00:54:32,826 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:54:35,321 - INFO - Nombre d'indices détectés : 5
+2025-01-27 00:54:35,321 - INFO - On passe à l'indice : 1 / 5
+2025-01-27 00:54:35,700 - INFO - Texte extrait : 2 - Tombe inondée
+2025-01-27 00:54:35,700 - INFO - Coordonnées actuelle : (-19, -57)
+2025-01-27 00:54:35,700 - INFO - Direction 2: y BETWEEN -56 AND -42, x = -19
+2025-01-27 00:54:35,702 - INFO - Meilleure correspondance pour 'Tombe inondée': 'Tombe inondée' à la position (-19, -56)
+2025-01-27 00:54:35,705 - INFO - Commande copiée dans le presse-papier : /travel -19 -56
+2025-01-27 00:54:42,292 - INFO - Map de l'indice (-19, -56)
+2025-01-27 00:54:43,871 - INFO - On passe à l'indice : 2 / 5
+2025-01-27 00:54:44,316 - INFO - Texte extrait : 0 - Kama peint
+2025-01-27 00:54:44,316 - INFO - Coordonnées actuelle : (-19, -56)
+2025-01-27 00:54:44,317 - INFO - Direction 0: x BETWEEN -18 AND -4, y = -56
+2025-01-27 00:54:44,318 - INFO - Meilleure correspondance pour 'Kama peint': 'Kama peint' à la position (-18, -56)
+2025-01-27 00:54:44,320 - INFO - Commande copiée dans le presse-papier : /travel -18 -56
+2025-01-27 00:54:51,042 - INFO - Map de l'indice (-18, -56)
+2025-01-27 00:54:52,620 - INFO - On passe à l'indice : 3 / 5
+2025-01-27 00:54:53,028 - INFO - Texte extrait : 2 - Marionette
+2025-01-27 00:54:53,028 - INFO - Coordonnées actuelle : (-18, -56)
+2025-01-27 00:54:53,028 - INFO - Direction 2: y BETWEEN -55 AND -41, x = -18
+2025-01-27 00:54:53,029 - INFO - Meilleure correspondance pour 'Marionette': 'Marionnette' à la position (-18, -49)
+2025-01-27 00:54:53,030 - INFO - Commande copiée dans le presse-papier : /travel -18 -49
+2025-01-27 00:55:24,728 - INFO - Map de l'indice (-18, -49)
+2025-01-27 00:55:26,166 - INFO - On passe à l'indice : 4 / 5
+2025-01-27 00:55:26,563 - INFO - Texte extrait : 2 - Tombe inondée
+2025-01-27 00:55:26,563 - INFO - Coordonnées actuelle : (-18, -49)
+2025-01-27 00:55:26,563 - INFO - Direction 2: y BETWEEN -48 AND -34, x = -18
+2025-01-27 00:55:26,565 - INFO - Meilleure correspondance pour 'Tombe inondée': 'Tombe inondée' à la position (-18, -48)
+2025-01-27 00:55:26,566 - INFO - Commande copiée dans le presse-papier : /travel -18 -48
+2025-01-27 00:55:35,188 - INFO - Map de l'indice (-18, -48)
+2025-01-27 00:55:36,655 - INFO - On passe à l'indice : 5 / 5
+2025-01-27 00:55:37,065 - INFO - Texte extrait : 0 - Bougie dans un trou
+2025-01-27 00:55:37,065 - INFO - Coordonnées actuelle : (-18, -48)
+2025-01-27 00:55:37,065 - INFO - Direction 0: x BETWEEN -17 AND -3, y = -48
+2025-01-27 00:55:37,067 - INFO - Meilleure correspondance pour 'Bougie dans un trou': 'Bougie dans un trou' à la position (-17, -48)
+2025-01-27 00:55:37,069 - INFO - Commande copiée dans le presse-papier : /travel -17 -48
+2025-01-27 00:55:43,547 - INFO - Map de l'indice (-17, -48)
+2025-01-27 00:55:45,061 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 00:55:48,437 - INFO - Nombre d'indices détectés : 0
+2025-01-27 00:59:40,870 - INFO - Nombre d'indices détectés : 5
+2025-01-27 00:59:40,870 - INFO - On passe à l'indice : 1 / 5
+2025-01-27 00:59:41,310 - INFO - Texte extrait : 0 - Gravure de soleil
+2025-01-27 00:59:41,311 - INFO - Coordonnées actuelle : (13, 26)
+2025-01-27 00:59:41,311 - INFO - Direction 0: x BETWEEN 14 AND 28, y = 26
+2025-01-27 00:59:41,312 - INFO - Meilleure correspondance pour 'Gravure de soleil': 'Gravure de soleil' à la position (17, 26)
+2025-01-27 00:59:41,315 - INFO - Commande copiée dans le presse-papier : /travel 17 26
+2025-01-27 00:59:58,202 - INFO - Map de l'indice (17, 26)
+2025-01-27 00:59:59,717 - INFO - On passe à l'indice : 2 / 5
+2025-01-27 01:00:00,097 - INFO - Texte extrait : 6 - Gravure dceil
+2025-01-27 01:00:00,097 - INFO - Coordonnées actuelle : (17, 26)
+2025-01-27 01:00:00,097 - INFO - Direction 6: y BETWEEN 11 AND 25  x = 17
+2025-01-27 01:00:00,099 - INFO - Meilleure correspondance pour 'Gravure dceil': 'Gravure d'oeil' à la position (17, 24)
+2025-01-27 01:00:00,101 - INFO - Commande copiée dans le presse-papier : /travel 17 24
+2025-01-27 01:00:09,902 - INFO - Map de l'indice (17, 24)
+2025-01-27 01:00:11,328 - INFO - On passe à l'indice : 3 / 5
+2025-01-27 01:00:11,718 - INFO - Texte extrait : 0 - Carapace de tortue E
+2025-01-27 01:00:11,720 - INFO - Coordonnées actuelle : (17, 24)
+2025-01-27 01:00:11,720 - INFO - Direction 0: x BETWEEN 18 AND 32, y = 24
+2025-01-27 01:00:11,722 - INFO - Meilleure correspondance pour 'Carapace de tortue E': 'Carapace de tortue' à la position (22, 24)
+2025-01-27 01:00:11,725 - INFO - Commande copiée dans le presse-papier : /travel 22 24
+2025-01-27 01:00:36,811 - INFO - Map de l'indice (22, 24)
+2025-01-27 01:00:38,390 - INFO - On passe à l'indice : 4 / 5
+2025-01-27 01:00:38,756 - INFO - Texte extrait : 4 - Rose noire
+2025-01-27 01:00:38,756 - INFO - Coordonnées actuelle : (22, 24)
+2025-01-27 01:00:38,756 - INFO - Direction 4: x BETWEEN 7 AND 21, y = 24
+2025-01-27 01:00:38,758 - INFO - Meilleure correspondance pour 'Rose noire': 'Rose noire' à la position (16, 24)
+2025-01-27 01:00:38,759 - INFO - Commande copiée dans le presse-papier : /travel 16 24
+2025-01-27 01:01:03,861 - INFO - Map de l'indice (16, 24)
+2025-01-27 01:01:05,317 - INFO - On passe à l'indice : 5 / 5
+2025-01-27 01:01:05,740 - INFO - Texte extrait : 0 - Gravure de Kama
+2025-01-27 01:01:05,740 - INFO - Coordonnées actuelle : (16, 24)
+2025-01-27 01:01:05,740 - INFO - Direction 0: x BETWEEN 17 AND 31, y = 24
+2025-01-27 01:01:05,742 - INFO - Meilleure correspondance pour 'Gravure de Kama': 'Gravure de Kama' à la position (18, 24)
+2025-01-27 01:01:05,744 - INFO - Commande copiée dans le presse-papier : /travel 18 24
+2025-01-27 01:01:13,765 - INFO - Map de l'indice (18, 24)
+2025-01-27 01:01:15,255 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:01:18,036 - INFO - Nombre d'indices détectés : 4
+2025-01-27 01:01:18,036 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 01:01:18,446 - INFO - Texte extrait : 0 - Peinture de Dofus
+2025-01-27 01:01:18,447 - INFO - Coordonnées actuelle : (18, 24)
+2025-01-27 01:01:18,447 - INFO - Direction 0: x BETWEEN 19 AND 33, y = 24
+2025-01-27 01:01:18,448 - INFO - Meilleure correspondance pour 'Peinture de Dofus': 'Peinture de Dofus' à la position (20, 24)
+2025-01-27 01:01:18,451 - INFO - Commande copiée dans le presse-papier : /travel 20 24
+2025-01-27 01:01:30,261 - INFO - Map de l'indice (20, 24)
+2025-01-27 01:01:31,733 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 01:01:32,150 - INFO - Texte extrait : 0 - Gravure de clef
+2025-01-27 01:01:32,150 - INFO - Coordonnées actuelle : (20, 24)
+2025-01-27 01:01:32,150 - INFO - Direction 0: x BETWEEN 21 AND 35, y = 24
+2025-01-27 01:01:32,152 - INFO - Meilleure correspondance pour 'Gravure de clef': 'Gravure de clef' à la position (21, 24)
+2025-01-27 01:01:32,154 - INFO - Commande copiée dans le presse-papier : /travel 21 24
+2025-01-27 01:01:38,766 - INFO - Map de l'indice (21, 24)
+2025-01-27 01:01:40,303 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 01:01:40,675 - INFO - Texte extrait : 4 - Echelle cossee
+2025-01-27 01:01:40,676 - INFO - Coordonnées actuelle : (21, 24)
+2025-01-27 01:01:40,676 - INFO - Direction 4: x BETWEEN 6 AND 20, y = 24
+2025-01-27 01:01:40,677 - INFO - Meilleure correspondance pour 'Echelle cossee': 'Échelle cassée' à la position (15, 24)
+2025-01-27 01:01:40,679 - INFO - Commande copiée dans le presse-papier : /travel 15 24
+2025-01-27 01:02:05,796 - INFO - Map de l'indice (15, 24)
+2025-01-27 01:02:07,336 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 01:02:07,710 - INFO - Texte extrait : 2 - Fer a cheval
+2025-01-27 01:02:07,710 - INFO - Coordonnées actuelle : (15, 24)
+2025-01-27 01:02:07,711 - INFO - Direction 2: y BETWEEN 25 AND 39, x = 15
+2025-01-27 01:02:07,712 - INFO - Meilleure correspondance pour 'Fer a cheval': 'Fer à cheval' à la position (15, 26)
+2025-01-27 01:02:07,715 - INFO - Commande copiée dans le presse-papier : /travel 15 26
+2025-01-27 01:02:19,527 - INFO - Map de l'indice (15, 26)
+2025-01-27 01:02:21,010 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:02:24,155 - INFO - Nombre d'indices détectés : 2
+2025-01-27 01:02:24,155 - INFO - On passe à l'indice : 1 / 2
+2025-01-27 01:02:24,561 - INFO - Texte extrait : 0 - Tissu 6 correauxnoué
+2025-01-27 01:02:24,561 - INFO - Coordonnées actuelle : (15, 26)
+2025-01-27 01:02:24,562 - INFO - Direction 0: x BETWEEN 16 AND 30, y = 26
+2025-01-27 01:02:24,563 - INFO - Meilleure correspondance pour 'Tissu 6 correauxnoué': 'Tissu à carreaux noué' à la position (16, 26)
+2025-01-27 01:02:24,566 - INFO - Commande copiée dans le presse-papier : /travel 16 26
+2025-01-27 01:02:31,252 - INFO - Map de l'indice (16, 26)
+2025-01-27 01:02:32,618 - INFO - On passe à l'indice : 2 / 2
+2025-01-27 01:02:33,044 - INFO - Texte extrait : 2 - Coquillage 4 pois
+2025-01-27 01:02:33,044 - INFO - Coordonnées actuelle : (16, 26)
+2025-01-27 01:02:33,044 - INFO - Direction 2: y BETWEEN 27 AND 41, x = 16
+2025-01-27 01:02:33,046 - INFO - Meilleure correspondance pour 'Coquillage 4 pois': 'Coquillage à pois' à la position (16, 27)
+2025-01-27 01:02:33,048 - INFO - Commande copiée dans le presse-papier : /travel 16 27
+2025-01-27 01:02:42,798 - INFO - Map de l'indice (16, 27)
+2025-01-27 01:02:44,408 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:06:15,788 - INFO - Nombre d'indices détectés : 4
+2025-01-27 01:06:15,789 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 01:06:16,162 - INFO - Texte extrait : 0 - Fleurs smiley
+2025-01-27 01:06:16,162 - INFO - Coordonnées actuelle : (-7, 26)
+2025-01-27 01:06:16,162 - INFO - Direction 0: x BETWEEN -6 AND 8, y = 26
+2025-01-27 01:06:16,164 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (-1, 26)
+2025-01-27 01:06:16,167 - INFO - Commande copiée dans le presse-papier : /travel -1 26
+2025-01-27 01:06:42,155 - INFO - Map de l'indice (-1, 26)
+2025-01-27 01:06:43,682 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 01:06:44,109 - INFO - Texte extrait : 6 - Gravure darakne e
+2025-01-27 01:06:44,109 - INFO - Coordonnées actuelle : (-1, 26)
+2025-01-27 01:06:44,110 - INFO - Direction 6: y BETWEEN 11 AND 25  x = -1
+2025-01-27 01:06:44,110 - INFO - Meilleure correspondance pour 'Gravure darakne e': 'Gravure d'arakne' à la position (-1, 25)
+2025-01-27 01:06:44,113 - INFO - Commande copiée dans le presse-papier : /travel -1 25
+2025-01-27 01:06:48,868 - INFO - Map de l'indice (-1, 25)
+2025-01-27 01:06:50,398 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 01:06:50,798 - INFO - Texte extrait : 4 - Clef dorée
+2025-01-27 01:06:50,799 - INFO - Coordonnées actuelle : (-1, 25)
+2025-01-27 01:06:50,799 - INFO - Direction 4: x BETWEEN -16 AND -2, y = 25
+2025-01-27 01:06:50,800 - INFO - Meilleure correspondance pour 'Clef dorée': 'Clef dorée' à la position (-2, 25)
+2025-01-27 01:06:50,803 - INFO - Commande copiée dans le presse-papier : /travel -2 25
+2025-01-27 01:06:57,178 - INFO - Map de l'indice (-2, 25)
+2025-01-27 01:06:58,667 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 01:06:59,034 - INFO - Texte extrait : 4 - Gravure dceil
+2025-01-27 01:06:59,035 - INFO - Coordonnées actuelle : (-2, 25)
+2025-01-27 01:06:59,035 - INFO - Direction 4: x BETWEEN -17 AND -3, y = 25
+2025-01-27 01:06:59,037 - INFO - Meilleure correspondance pour 'Gravure dceil': 'Gravure d'oeil' à la position (-4, 25)
+2025-01-27 01:06:59,038 - INFO - Commande copiée dans le presse-papier : /travel -4 25
+2025-01-27 01:07:10,907 - INFO - Map de l'indice (-4, 25)
+2025-01-27 01:07:12,406 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:07:14,895 - INFO - Nombre d'indices détectés : 5
+2025-01-27 01:07:14,895 - INFO - On passe à l'indice : 1 / 5
+2025-01-27 01:07:15,346 - INFO - Texte extrait : 6 - Bonbon bleu
+2025-01-27 01:07:15,346 - INFO - Coordonnées actuelle : (-4, 25)
+2025-01-27 01:07:15,347 - INFO - Direction 6: y BETWEEN 10 AND 24  x = -4
+2025-01-27 01:07:15,348 - INFO - Meilleure correspondance pour 'Bonbon bleu': 'Bonbon bleu' à la position (-4, 24)
+2025-01-27 01:07:15,351 - INFO - Commande copiée dans le presse-papier : /travel -4 24
+2025-01-27 01:07:22,191 - INFO - Map de l'indice (-4, 24)
+2025-01-27 01:07:23,727 - INFO - On passe à l'indice : 2 / 5
+2025-01-27 01:07:24,149 - INFO - Texte extrait : 0 - Fer a cheval
+2025-01-27 01:07:24,149 - INFO - Coordonnées actuelle : (-4, 24)
+2025-01-27 01:07:24,149 - INFO - Direction 0: x BETWEEN -3 AND 11, y = 24
+2025-01-27 01:07:24,151 - INFO - Meilleure correspondance pour 'Fer a cheval': 'Fer à cheval' à la position (2, 24)
+2025-01-27 01:07:24,153 - INFO - Commande copiée dans le presse-papier : /travel 2 24
+2025-01-27 01:07:51,005 - INFO - Map de l'indice (2, 24)
+2025-01-27 01:07:52,466 - INFO - On passe à l'indice : 3 / 5
+2025-01-27 01:07:52,900 - INFO - Texte extrait : 2 - Etoile en papier plié
+2025-01-27 01:07:52,901 - INFO - Coordonnées actuelle : (2, 24)
+2025-01-27 01:07:52,901 - INFO - Direction 2: y BETWEEN 25 AND 39, x = 2
+2025-01-27 01:07:52,902 - INFO - Meilleure correspondance pour 'Etoile en papier plié': 'Étoile en papier plié' à la position (2, 27)
+2025-01-27 01:07:52,904 - INFO - Commande copiée dans le presse-papier : /travel 2 27
+2025-01-27 01:08:05,081 - INFO - Map de l'indice (2, 27)
+2025-01-27 01:08:06,650 - INFO - On passe à l'indice : 4 / 5
+2025-01-27 01:08:07,102 - INFO - Texte extrait : 0 - Marionnette
+2025-01-27 01:08:07,103 - INFO - Coordonnées actuelle : (2, 27)
+2025-01-27 01:08:07,103 - INFO - Direction 0: x BETWEEN 3 AND 17, y = 27
+2025-01-27 01:08:07,104 - INFO - Meilleure correspondance pour 'Marionnette': 'Marionnette' à la position (3, 27)
+2025-01-27 01:08:07,106 - INFO - Commande copiée dans le presse-papier : /travel 3 27
+2025-01-27 01:08:13,526 - INFO - Map de l'indice (3, 27)
+2025-01-27 01:08:14,978 - INFO - On passe à l'indice : 5 / 5
+2025-01-27 01:08:15,441 - INFO - Texte extrait : 0 - Bouton de couture
+2025-01-27 01:08:15,441 - INFO - Coordonnées actuelle : (3, 27)
+2025-01-27 01:08:15,441 - INFO - Direction 0: x BETWEEN 4 AND 18, y = 27
+2025-01-27 01:08:15,443 - INFO - Meilleure correspondance pour 'Bouton de couture': 'Bouton de couture' à la position (4, 27)
+2025-01-27 01:08:15,445 - INFO - Commande copiée dans le presse-papier : /travel 4 27
+2025-01-27 01:08:22,263 - INFO - Map de l'indice (4, 27)
+2025-01-27 01:08:23,741 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:08:27,067 - INFO - Nombre d'indices détectés : 2
+2025-01-27 01:08:27,067 - INFO - On passe à l'indice : 1 / 2
+2025-01-27 01:08:27,474 - INFO - Texte extrait : 2 - Fleurs smiley
+2025-01-27 01:08:27,476 - INFO - Coordonnées actuelle : (4, 27)
+2025-01-27 01:08:27,476 - INFO - Direction 2: y BETWEEN 28 AND 42, x = 4
+2025-01-27 01:08:27,476 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (4, 28)
+2025-01-27 01:08:27,480 - INFO - Commande copiée dans le presse-papier : /travel 4 28
+2025-01-27 01:08:34,026 - INFO - Map de l'indice (4, 28)
+2025-01-27 01:08:35,571 - INFO - On passe à l'indice : 2 / 2
+2025-01-27 01:08:36,005 - INFO - Texte extrait : 6 - Champignon rayé e
+2025-01-27 01:08:36,005 - INFO - Coordonnées actuelle : (4, 28)
+2025-01-27 01:08:36,006 - INFO - Direction 6: y BETWEEN 13 AND 27  x = 4
+2025-01-27 01:08:36,007 - INFO - Meilleure correspondance pour 'Champignon rayé e': 'Champignon rayé' à la position (4, 21)
+2025-01-27 01:08:36,010 - INFO - Commande copiée dans le presse-papier : /travel 4 21
+2025-01-27 01:09:00,781 - INFO - Map de l'indice (4, 21)
+2025-01-27 01:09:02,375 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:12:04,815 - INFO - Nombre d'indices détectés : 6
+2025-01-27 01:12:04,815 - INFO - On passe à l'indice : 1 / 6
+2025-01-27 01:12:05,193 - INFO - Texte extrait : 4 - Fléche dons une pomme
+2025-01-27 01:12:05,193 - INFO - Coordonnées actuelle : (1, -32)
+2025-01-27 01:12:05,194 - INFO - Direction 4: x BETWEEN -14 AND 0, y = -32
+2025-01-27 01:12:05,196 - INFO - Meilleure correspondance pour 'Fléche dons une pomme': 'Flèche dans une pomme' à la position (-1, -32)
+2025-01-27 01:12:05,199 - INFO - Commande copiée dans le presse-papier : /travel -1 -32
+2025-01-27 01:12:15,439 - INFO - Map de l'indice (-1, -32)
+2025-01-27 01:12:17,009 - INFO - On passe à l'indice : 2 / 6
+2025-01-27 01:12:17,438 - INFO - Texte extrait : 2 - Ble noir et blanc
+2025-01-27 01:12:17,439 - INFO - Coordonnées actuelle : (-1, -32)
+2025-01-27 01:12:17,439 - INFO - Direction 2: y BETWEEN -31 AND -17, x = -1
+2025-01-27 01:12:17,440 - INFO - Meilleure correspondance pour 'Ble noir et blanc': 'Blé noir et blanc' à la position (-1, -31)
+2025-01-27 01:12:17,442 - INFO - Commande copiée dans le presse-papier : /travel -1 -31
+2025-01-27 01:12:23,872 - INFO - Map de l'indice (-1, -31)
+2025-01-27 01:12:25,441 - INFO - On passe à l'indice : 3 / 6
+2025-01-27 01:12:25,807 - INFO - Texte extrait : 0 - Bouton de couture
+2025-01-27 01:12:25,808 - INFO - Coordonnées actuelle : (-1, -31)
+2025-01-27 01:12:25,808 - INFO - Direction 0: x BETWEEN 0 AND 14, y = -31
+2025-01-27 01:12:25,809 - INFO - Meilleure correspondance pour 'Bouton de couture': 'Bouton de couture' à la position (2, -31)
+2025-01-27 01:12:25,811 - INFO - Commande copiée dans le presse-papier : /travel 2 -31
+2025-01-27 01:12:41,327 - INFO - Map de l'indice (2, -31)
+2025-01-27 01:12:42,860 - INFO - On passe à l'indice : 4 / 6
+2025-01-27 01:12:43,271 - INFO - Texte extrait : 4 - Fleurs smiley
+2025-01-27 01:12:43,271 - INFO - Coordonnées actuelle : (2, -31)
+2025-01-27 01:12:43,271 - INFO - Direction 4: x BETWEEN -13 AND 1, y = -31
+2025-01-27 01:12:43,272 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (-2, -31)
+2025-01-27 01:12:43,275 - INFO - Commande copiée dans le presse-papier : /travel -2 -31
+2025-01-27 01:13:00,288 - INFO - Map de l'indice (-2, -31)
+2025-01-27 01:13:01,792 - INFO - On passe à l'indice : 5 / 6
+2025-01-27 01:13:02,176 - INFO - Texte extrait : 2 - Buisson poupée sadida_E
+2025-01-27 01:13:02,176 - INFO - Coordonnées actuelle : (-2, -31)
+2025-01-27 01:13:02,176 - INFO - Direction 2: y BETWEEN -30 AND -16, x = -2
+2025-01-27 01:13:02,177 - INFO - Meilleure correspondance pour 'Buisson poupée sadida_E': 'Buisson poupée sadida' à la position (-2, -27)
+2025-01-27 01:13:02,180 - INFO - Commande copiée dans le presse-papier : /travel -2 -27
+2025-01-27 01:13:21,777 - INFO - Map de l'indice (-2, -27)
+2025-01-27 01:13:23,207 - INFO - On passe à l'indice : 6 / 6
+2025-01-27 01:13:23,699 - INFO - Texte extrait : 4 - Cairn
+2025-01-27 01:13:23,700 - INFO - Coordonnées actuelle : (-2, -27)
+2025-01-27 01:13:23,700 - INFO - Direction 4: x BETWEEN -17 AND -3, y = -27
+2025-01-27 01:13:23,701 - INFO - Meilleure correspondance pour 'Cairn': 'Cairn' à la position (-6, -27)
+2025-01-27 01:13:23,703 - INFO - Commande copiée dans le presse-papier : /travel -6 -27
+2025-01-27 01:13:41,036 - INFO - Map de l'indice (-6, -27)
+2025-01-27 01:13:42,593 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:13:45,905 - INFO - Nombre d'indices détectés : 4
+2025-01-27 01:13:45,905 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 01:13:46,294 - INFO - Texte extrait : 2 - Cairn
+2025-01-27 01:13:46,294 - INFO - Coordonnées actuelle : (-6, -27)
+2025-01-27 01:13:46,294 - INFO - Direction 2: y BETWEEN -26 AND -12, x = -6
+2025-01-27 01:13:46,295 - INFO - Meilleure correspondance pour 'Cairn': 'Cairn' à la position (-6, -24)
+2025-01-27 01:13:46,298 - INFO - Commande copiée dans le presse-papier : /travel -6 -24
+2025-01-27 01:14:00,198 - INFO - Map de l'indice (-6, -24)
+2025-01-27 01:14:01,777 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 01:14:02,231 - INFO - Texte extrait : 0 - Anneau dor
+2025-01-27 01:14:02,232 - INFO - Coordonnées actuelle : (-6, -24)
+2025-01-27 01:14:02,232 - INFO - Direction 0: x BETWEEN -5 AND 9, y = -24
+2025-01-27 01:14:02,233 - INFO - Meilleure correspondance pour 'Anneau dor': 'Anneau d'or' à la position (-4, -24)
+2025-01-27 01:14:02,234 - INFO - Commande copiée dans le presse-papier : /travel -4 -24
+2025-01-27 01:14:12,297 - INFO - Map de l'indice (-4, -24)
+2025-01-27 01:14:13,825 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 01:14:14,264 - INFO - Texte extrait : 2 - Dessin de croix dans un
+
+e
+cercle
+2025-01-27 01:14:14,264 - INFO - Coordonnées actuelle : (-4, -24)
+2025-01-27 01:14:14,264 - INFO - Direction 2: y BETWEEN -23 AND -9, x = -4
+2025-01-27 01:14:14,267 - INFO - Meilleure correspondance pour 'Dessin de croix dans un
+
+e
+cercle': 'Dessin de croix dans un cercle' à la position (-4, -19)
+2025-01-27 01:14:14,269 - INFO - Commande copiée dans le presse-papier : /travel -4 -19
+2025-01-27 01:14:38,793 - INFO - Map de l'indice (-4, -19)
+2025-01-27 01:14:40,192 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 01:14:40,600 - INFO - Texte extrait : 2 - Champignon rayé e
+2025-01-27 01:14:40,600 - INFO - Coordonnées actuelle : (-4, -19)
+2025-01-27 01:14:40,601 - INFO - Direction 2: y BETWEEN -18 AND -4, x = -4
+2025-01-27 01:14:40,602 - INFO - Meilleure correspondance pour 'Champignon rayé e': 'Champignon rayé' à la position (-4, -15)
+2025-01-27 01:14:40,604 - INFO - Commande copiée dans le presse-papier : /travel -4 -15
+2025-01-27 01:14:57,511 - INFO - Map de l'indice (-4, -15)
+2025-01-27 01:14:58,973 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:15:02,034 - INFO - Nombre d'indices détectés : 1
+2025-01-27 01:15:02,034 - INFO - On passe à l'indice : 1 / 1
+2025-01-27 01:15:02,507 - INFO - Texte extrait : 2 - Crane dans un trou e
+2025-01-27 01:15:02,507 - INFO - Coordonnées actuelle : (-4, -15)
+2025-01-27 01:15:02,507 - INFO - Direction 2: y BETWEEN -14 AND 0, x = -4
+2025-01-27 01:15:02,509 - INFO - Meilleure correspondance pour 'Crane dans un trou e': 'Crâne dans un trou' à la position (-4, -14)
+2025-01-27 01:15:02,512 - INFO - Commande copiée dans le presse-papier : /travel -4 -14
+2025-01-27 01:15:09,079 - INFO - Map de l'indice (-4, -14)
+2025-01-27 01:15:10,598 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:19:11,038 - INFO - Nombre d'indices détectés : 4
+2025-01-27 01:19:11,038 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 01:19:11,439 - INFO - Texte extrait : 6 - Ble noir et blanc
+2025-01-27 01:19:11,439 - INFO - Coordonnées actuelle : (-7, 26)
+2025-01-27 01:19:11,439 - INFO - Direction 6: y BETWEEN 11 AND 25  x = -7
+2025-01-27 01:19:11,441 - INFO - Meilleure correspondance pour 'Ble noir et blanc': 'Blé noir et blanc' à la position (-7, 24)
+2025-01-27 01:19:11,444 - INFO - Commande copiée dans le presse-papier : /travel -7 24
+2025-01-27 01:19:21,389 - INFO - Map de l'indice (-7, 24)
+2025-01-27 01:19:22,772 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 01:19:23,189 - INFO - Texte extrait : 2 - Tissu 6 correauxnoué
+2025-01-27 01:19:23,189 - INFO - Coordonnées actuelle : (-7, 24)
+2025-01-27 01:19:23,190 - INFO - Direction 2: y BETWEEN 25 AND 39, x = -7
+2025-01-27 01:19:23,191 - INFO - Meilleure correspondance pour 'Tissu 6 correauxnoué': 'Tissu à carreaux noué' à la position (-7, 27)
+2025-01-27 01:19:23,193 - INFO - Commande copiée dans le presse-papier : /travel -7 27
+2025-01-27 01:19:43,500 - INFO - Map de l'indice (-7, 27)
+2025-01-27 01:19:44,955 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 01:19:45,361 - INFO - Texte extrait : 0 - Gravure de crane
+2025-01-27 01:19:45,361 - INFO - Coordonnées actuelle : (-7, 27)
+2025-01-27 01:19:45,361 - INFO - Direction 0: x BETWEEN -6 AND 8, y = 27
+2025-01-27 01:19:45,363 - INFO - Meilleure correspondance pour 'Gravure de crane': 'Gravure de crâne' à la position (-6, 27)
+2025-01-27 01:19:45,365 - INFO - Commande copiée dans le presse-papier : /travel -6 27
+2025-01-27 01:19:50,116 - INFO - Map de l'indice (-6, 27)
+2025-01-27 01:19:51,550 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 01:19:51,924 - INFO - Texte extrait : 6 - Gravure de fleur
+2025-01-27 01:19:51,924 - INFO - Coordonnées actuelle : (-6, 27)
+2025-01-27 01:19:51,924 - INFO - Direction 6: y BETWEEN 12 AND 26  x = -6
+2025-01-27 01:19:51,926 - INFO - Meilleure correspondance pour 'Gravure de fleur': 'Gravure de fleur' à la position (-6, 26)
+2025-01-27 01:19:51,927 - INFO - Commande copiée dans le presse-papier : /travel -6 26
+2025-01-27 01:20:00,715 - INFO - Map de l'indice (-6, 26)
+2025-01-27 01:20:02,262 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:20:05,107 - INFO - Nombre d'indices détectés : 6
+2025-01-27 01:20:05,107 - INFO - On passe à l'indice : 1 / 6
+2025-01-27 01:20:05,498 - INFO - Texte extrait : 4 - Trace demainensong
+2025-01-27 01:20:05,498 - INFO - Coordonnées actuelle : (-6, 26)
+2025-01-27 01:20:05,499 - INFO - Direction 4: x BETWEEN -21 AND -7, y = 26
+2025-01-27 01:20:05,500 - INFO - Meilleure correspondance pour 'Trace demainensong': 'Trace de main en sang' à la position (-8, 26)
+2025-01-27 01:20:05,504 - INFO - Commande copiée dans le presse-papier : /travel -8 26
+2025-01-27 01:20:17,892 - INFO - Map de l'indice (-8, 26)
+2025-01-27 01:20:19,335 - INFO - On passe à l'indice : 2 / 6
+2025-01-27 01:20:19,753 - INFO - Texte extrait : 6 - Poisson grillé embroché
+2025-01-27 01:20:19,753 - INFO - Coordonnées actuelle : (-8, 26)
+2025-01-27 01:20:19,754 - INFO - Direction 6: y BETWEEN 11 AND 25  x = -8
+2025-01-27 01:20:19,755 - INFO - Meilleure correspondance pour 'Poisson grillé embroché': 'Poisson grillé embroché' à la position (-8, 23)
+2025-01-27 01:20:19,757 - INFO - Commande copiée dans le presse-papier : /travel -8 23
+2025-01-27 01:20:33,544 - INFO - Map de l'indice (-8, 23)
+2025-01-27 01:20:34,965 - INFO - On passe à l'indice : 3 / 6
+2025-01-27 01:20:35,395 - INFO - Texte extrait : 2 - Rune nimbos
+2025-01-27 01:20:35,395 - INFO - Coordonnées actuelle : (-8, 23)
+2025-01-27 01:20:35,396 - INFO - Direction 2: y BETWEEN 24 AND 38, x = -8
+2025-01-27 01:20:35,397 - INFO - Meilleure correspondance pour 'Rune nimbos': 'Rune nimbos' à la position (-8, 24)
+2025-01-27 01:20:35,399 - INFO - Commande copiée dans le presse-papier : /travel -8 24
+2025-01-27 01:20:38,544 - INFO - Map de l'indice (-8, 24)
+2025-01-27 01:20:40,009 - INFO - On passe à l'indice : 4 / 6
+2025-01-27 01:20:40,389 - INFO - Texte extrait : 2 - Hache brisée
+2025-01-27 01:20:40,389 - INFO - Coordonnées actuelle : (-8, 24)
+2025-01-27 01:20:40,390 - INFO - Direction 2: y BETWEEN 25 AND 39, x = -8
+2025-01-27 01:20:40,391 - INFO - Meilleure correspondance pour 'Hache brisée': 'Hache brisée' à la position (-8, 25)
+2025-01-27 01:20:40,392 - INFO - Commande copiée dans le presse-papier : /travel -8 25
+2025-01-27 01:20:47,160 - INFO - Map de l'indice (-8, 25)
+2025-01-27 01:20:48,773 - INFO - On passe à l'indice : 5 / 6
+2025-01-27 01:20:49,139 - INFO - Texte extrait : 6 - Queue dOsamodas
+2025-01-27 01:20:49,139 - INFO - Coordonnées actuelle : (-8, 25)
+2025-01-27 01:20:49,139 - INFO - Direction 6: y BETWEEN 10 AND 24  x = -8
+2025-01-27 01:20:49,141 - INFO - Meilleure correspondance pour 'Queue dOsamodas': 'Queue d'Osamodas' à la position (-8, 22)
+2025-01-27 01:20:49,142 - INFO - Commande copiée dans le presse-papier : /travel -8 22
+2025-01-27 01:21:01,423 - INFO - Map de l'indice (-8, 22)
+2025-01-27 01:21:02,992 - INFO - On passe à l'indice : 6 / 6
+2025-01-27 01:21:03,394 - INFO - Texte extrait : 4 - Fleurs smiley
+2025-01-27 01:21:03,394 - INFO - Coordonnées actuelle : (-8, 22)
+2025-01-27 01:21:03,394 - INFO - Direction 4: x BETWEEN -23 AND -9, y = 22
+2025-01-27 01:21:03,395 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (-12, 22)
+2025-01-27 01:21:03,398 - INFO - Commande copiée dans le presse-papier : /travel -12 22
+2025-01-27 01:21:21,081 - INFO - Map de l'indice (-12, 22)
+2025-01-27 01:21:22,645 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:21:25,257 - INFO - Nombre d'indices détectés : 1
+2025-01-27 01:21:25,257 - INFO - On passe à l'indice : 1 / 1
+2025-01-27 01:21:25,671 - INFO - Texte extrait : 4 - Crane de Roublard e
+2025-01-27 01:21:25,671 - INFO - Coordonnées actuelle : (-12, 22)
+2025-01-27 01:21:25,671 - INFO - Direction 4: x BETWEEN -27 AND -13, y = 22
+2025-01-27 01:21:25,672 - INFO - Meilleure correspondance pour 'Crane de Roublard e': 'Crâne de Roublard' à la position (-21, 22)
+2025-01-27 01:21:25,676 - INFO - Commande copiée dans le presse-papier : /travel -21 22
+2025-01-27 01:22:04,541 - INFO - Map de l'indice (-21, 22)
+2025-01-27 01:22:06,005 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:25:39,603 - INFO - Nombre d'indices détectés : 4
+2025-01-27 01:25:39,603 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 01:25:40,025 - INFO - Texte extrait : 2 - Affiche de corte au
+trésor
+2025-01-27 01:25:40,025 - INFO - Coordonnées actuelle : (-11, 4)
+2025-01-27 01:25:40,025 - INFO - Direction 2: y BETWEEN 5 AND 19, x = -11
+2025-01-27 01:25:40,027 - INFO - Meilleure correspondance pour 'Affiche de corte au
+trésor': 'Affiche de carte au trésor' à la position (-11, 10)
+2025-01-27 01:25:40,030 - INFO - Commande copiée dans le presse-papier : /travel -11 10
+2025-01-27 01:26:04,548 - INFO - Map de l'indice (-11, 10)
+2025-01-27 01:26:06,132 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 01:26:06,521 - INFO - Texte extrait : 0 - Dolmen
+2025-01-27 01:26:06,521 - INFO - Coordonnées actuelle : (-11, 10)
+2025-01-27 01:26:06,521 - INFO - Direction 0: x BETWEEN -10 AND 4, y = 10
+2025-01-27 01:26:06,523 - INFO - Meilleure correspondance pour 'Dolmen': 'Dolmen' à la position (-10, 10)
+2025-01-27 01:26:06,525 - INFO - Commande copiée dans le presse-papier : /travel -10 10
+2025-01-27 01:26:12,928 - INFO - Map de l'indice (-10, 10)
+2025-01-27 01:26:14,512 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 01:26:14,951 - INFO - Texte extrait : 0 - Marionette
+2025-01-27 01:26:14,951 - INFO - Coordonnées actuelle : (-10, 10)
+2025-01-27 01:26:14,951 - INFO - Direction 0: x BETWEEN -9 AND 5, y = 10
+2025-01-27 01:26:14,953 - INFO - Meilleure correspondance pour 'Marionette': 'Marionnette' à la position (-9, 10)
+2025-01-27 01:26:14,955 - INFO - Commande copiée dans le presse-papier : /travel -9 10
+2025-01-27 01:26:21,733 - INFO - Map de l'indice (-9, 10)
+2025-01-27 01:26:23,171 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 01:26:23,552 - INFO - Texte extrait : 2 - Anneau dor
+2025-01-27 01:26:23,552 - INFO - Coordonnées actuelle : (-9, 10)
+2025-01-27 01:26:23,553 - INFO - Direction 2: y BETWEEN 11 AND 25, x = -9
+2025-01-27 01:26:23,554 - INFO - Meilleure correspondance pour 'Anneau dor': 'Anneau d'or' à la position (-9, 14)
+2025-01-27 01:26:23,556 - INFO - Commande copiée dans le presse-papier : /travel -9 14
+2025-01-27 01:26:39,299 - INFO - Map de l'indice (-9, 14)
+2025-01-27 01:26:40,866 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:26:43,815 - INFO - Nombre d'indices détectés : 6
+2025-01-27 01:26:43,815 - INFO - On passe à l'indice : 1 / 6
+2025-01-27 01:26:44,207 - INFO - Texte extrait : 0 - Bonbon bleu
+2025-01-27 01:26:44,207 - INFO - Coordonnées actuelle : (-9, 14)
+2025-01-27 01:26:44,208 - INFO - Direction 0: x BETWEEN -8 AND 6, y = 14
+2025-01-27 01:26:44,209 - INFO - Meilleure correspondance pour 'Bonbon bleu': 'Bonbon bleu' à la position (-8, 14)
+2025-01-27 01:26:44,212 - INFO - Commande copiée dans le presse-papier : /travel -8 14
+2025-01-27 01:26:50,856 - INFO - Map de l'indice (-8, 14)
+2025-01-27 01:26:52,434 - INFO - On passe à l'indice : 2 / 6
+2025-01-27 01:26:52,802 - INFO - Texte extrait : 2 - Carapace de tortue E
+2025-01-27 01:26:52,802 - INFO - Coordonnées actuelle : (-8, 14)
+2025-01-27 01:26:52,803 - INFO - Direction 2: y BETWEEN 15 AND 29, x = -8
+2025-01-27 01:26:52,804 - INFO - Meilleure correspondance pour 'Carapace de tortue E': 'Carapace de tortue' à la position (-8, 15)
+2025-01-27 01:26:52,807 - INFO - Commande copiée dans le presse-papier : /travel -8 15
+2025-01-27 01:26:59,637 - INFO - Map de l'indice (-8, 15)
+2025-01-27 01:27:01,140 - INFO - On passe à l'indice : 3 / 6
+2025-01-27 01:27:01,569 - INFO - Texte extrait : 2 - Anneau dor
+2025-01-27 01:27:01,570 - INFO - Coordonnées actuelle : (-8, 15)
+2025-01-27 01:27:01,570 - INFO - Direction 2: y BETWEEN 16 AND 30, x = -8
+2025-01-27 01:27:01,572 - INFO - Meilleure correspondance pour 'Anneau dor': 'Anneau d'or' à la position (-8, 17)
+2025-01-27 01:27:01,574 - INFO - Commande copiée dans le presse-papier : /travel -8 17
+2025-01-27 01:27:11,538 - INFO - Map de l'indice (-8, 17)
+2025-01-27 01:27:13,118 - INFO - On passe à l'indice : 4 / 6
+2025-01-27 01:27:13,503 - INFO - Texte extrait : 2 - Bouton de couture
+2025-01-27 01:27:13,503 - INFO - Coordonnées actuelle : (-8, 17)
+2025-01-27 01:27:13,503 - INFO - Direction 2: y BETWEEN 18 AND 32, x = -8
+2025-01-27 01:27:13,504 - INFO - Meilleure correspondance pour 'Bouton de couture': 'Bouton de couture' à la position (-8, 18)
+2025-01-27 01:27:13,506 - INFO - Commande copiée dans le presse-papier : /travel -8 18
+2025-01-27 01:27:19,824 - INFO - Map de l'indice (-8, 18)
+2025-01-27 01:27:21,419 - INFO - On passe à l'indice : 5 / 6
+2025-01-27 01:27:21,816 - INFO - Texte extrait : 6 - Kama peint
+2025-01-27 01:27:21,816 - INFO - Coordonnées actuelle : (-8, 18)
+2025-01-27 01:27:21,817 - INFO - Direction 6: y BETWEEN 3 AND 17  x = -8
+2025-01-27 01:27:21,818 - INFO - Meilleure correspondance pour 'Kama peint': 'Kama peint' à la position (-8, 12)
+2025-01-27 01:27:21,820 - INFO - Commande copiée dans le presse-papier : /travel -8 12
+2025-01-27 01:27:44,562 - INFO - Map de l'indice (-8, 12)
+2025-01-27 01:27:46,112 - INFO - On passe à l'indice : 6 / 6
+2025-01-27 01:27:46,474 - INFO - Texte extrait : 2 - Rocher dé
+2025-01-27 01:27:46,476 - INFO - Coordonnées actuelle : (-8, 12)
+2025-01-27 01:27:46,476 - INFO - Direction 2: y BETWEEN 13 AND 27, x = -8
+2025-01-27 01:27:46,477 - INFO - Meilleure correspondance pour 'Rocher dé': 'Rocher dé' à la position (-8, 16)
+2025-01-27 01:27:46,479 - INFO - Commande copiée dans le presse-papier : /travel -8 16
+2025-01-27 01:28:01,411 - INFO - Map de l'indice (-8, 16)
+2025-01-27 01:28:03,014 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:28:05,923 - INFO - Nombre d'indices détectés : 1
+2025-01-27 01:28:05,923 - INFO - On passe à l'indice : 1 / 1
+2025-01-27 01:28:06,331 - INFO - Texte extrait : 6 - Etoile en popier plié ic
+2025-01-27 01:28:06,333 - INFO - Coordonnées actuelle : (-8, 16)
+2025-01-27 01:28:06,333 - INFO - Direction 6: y BETWEEN 1 AND 15  x = -8
+2025-01-27 01:28:06,334 - INFO - Meilleure correspondance pour 'Etoile en popier plié ic': 'Étoile en papier plié' à la position (-8, 13)
+2025-01-27 01:28:06,337 - INFO - Commande copiée dans le presse-papier : /travel -8 13
+2025-01-27 01:28:18,190 - INFO - Map de l'indice (-8, 13)
+2025-01-27 01:28:19,706 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:31:23,960 - INFO - Nombre d'indices détectés : 6
+2025-01-27 01:31:23,960 - INFO - On passe à l'indice : 1 / 6
+2025-01-27 01:31:24,402 - INFO - Texte extrait : 6 - Sucre dorge
+2025-01-27 01:31:24,403 - INFO - Coordonnées actuelle : (-16, 1)
+2025-01-27 01:31:24,403 - INFO - Direction 6: y BETWEEN -14 AND 0  x = -16
+2025-01-27 01:31:24,404 - INFO - Meilleure correspondance pour 'Sucre dorge': 'Sucre d'orge' à la position (-16, -4)
+2025-01-27 01:31:24,407 - INFO - Commande copiée dans le presse-papier : /travel -16 -4
+2025-01-27 01:31:48,441 - INFO - Map de l'indice (-16, -4)
+2025-01-27 01:31:50,020 - INFO - On passe à l'indice : 2 / 6
+2025-01-27 01:31:50,394 - INFO - Texte extrait : 0 - Etoile en papier plié
+2025-01-27 01:31:50,394 - INFO - Coordonnées actuelle : (-16, -4)
+2025-01-27 01:31:50,394 - INFO - Direction 0: x BETWEEN -15 AND -1, y = -4
+2025-01-27 01:31:50,396 - INFO - Meilleure correspondance pour 'Etoile en papier plié': 'Étoile en papier plié' à la position (-15, -4)
+2025-01-27 01:31:50,397 - INFO - Commande copiée dans le presse-papier : /travel -15 -4
+2025-01-27 01:31:57,126 - INFO - Map de l'indice (-15, -4)
+2025-01-27 01:31:58,597 - INFO - On passe à l'indice : 3 / 6
+2025-01-27 01:31:59,047 - INFO - Texte extrait : 0 - Gravure darakne
+2025-01-27 01:31:59,047 - INFO - Coordonnées actuelle : (-15, -4)
+2025-01-27 01:31:59,048 - INFO - Direction 0: x BETWEEN -14 AND 0, y = -4
+2025-01-27 01:31:59,049 - INFO - Meilleure correspondance pour 'Gravure darakne': 'Gravure d'arakne' à la position (-14, -4)
+2025-01-27 01:31:59,052 - INFO - Commande copiée dans le presse-papier : /travel -14 -4
+2025-01-27 01:32:07,364 - INFO - Map de l'indice (-14, -4)
+2025-01-27 01:32:08,825 - INFO - On passe à l'indice : 4 / 6
+2025-01-27 01:32:09,198 - INFO - Texte extrait : 0 - Anneau dor
+2025-01-27 01:32:09,199 - INFO - Coordonnées actuelle : (-14, -4)
+2025-01-27 01:32:09,199 - INFO - Direction 0: x BETWEEN -13 AND 1, y = -4
+2025-01-27 01:32:09,199 - INFO - Meilleure correspondance pour 'Anneau dor': 'Anneau d'or' à la position (-12, -4)
+2025-01-27 01:32:09,202 - INFO - Commande copiée dans le presse-papier : /travel -12 -4
+2025-01-27 01:32:21,365 - INFO - Map de l'indice (-12, -4)
+2025-01-27 01:32:22,988 - INFO - On passe à l'indice : 5 / 6
+2025-01-27 01:32:23,371 - INFO - Texte extrait : 6 - Bonbon bleu
+2025-01-27 01:32:23,371 - INFO - Coordonnées actuelle : (-12, -4)
+2025-01-27 01:32:23,371 - INFO - Direction 6: y BETWEEN -19 AND -5  x = -12
+2025-01-27 01:32:23,372 - INFO - Meilleure correspondance pour 'Bonbon bleu': 'Bonbon bleu' à la position (-12, -8)
+2025-01-27 01:32:23,374 - INFO - Commande copiée dans le presse-papier : /travel -12 -8
+2025-01-27 01:32:40,630 - INFO - Map de l'indice (-12, -8)
+2025-01-27 01:32:42,252 - INFO - On passe à l'indice : 6 / 6
+2025-01-27 01:32:42,737 - INFO - Texte extrait : 0 - Etoile en papier plié
+2025-01-27 01:32:42,737 - INFO - Coordonnées actuelle : (-12, -8)
+2025-01-27 01:32:42,737 - INFO - Direction 0: x BETWEEN -11 AND 3, y = -8
+2025-01-27 01:32:42,739 - INFO - Meilleure correspondance pour 'Etoile en papier plié': 'Étoile en papier plié' à la position (-11, -8)
+2025-01-27 01:32:42,740 - INFO - Commande copiée dans le presse-papier : /travel -11 -8
+2025-01-27 01:32:49,640 - INFO - Map de l'indice (-11, -8)
+2025-01-27 01:32:51,023 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:32:54,161 - INFO - Nombre d'indices détectés : 5
+2025-01-27 01:32:54,161 - INFO - On passe à l'indice : 1 / 5
+2025-01-27 01:32:54,524 - INFO - Texte extrait : 6 - Canarden plastique
+2025-01-27 01:32:54,524 - INFO - Coordonnées actuelle : (-11, -8)
+2025-01-27 01:32:54,525 - INFO - Direction 6: y BETWEEN -23 AND -9  x = -11
+2025-01-27 01:32:54,526 - INFO - Meilleure correspondance pour 'Canarden plastique': 'Canard en plastique' à la position (-11, -10)
+2025-01-27 01:32:54,531 - INFO - Commande copiée dans le presse-papier : /travel -11 -10
+2025-01-27 01:33:04,837 - INFO - Map de l'indice (-11, -10)
+2025-01-27 01:33:06,432 - INFO - On passe à l'indice : 2 / 5
+2025-01-27 01:33:06,846 - INFO - Texte extrait : 0 - Fléche dans une pomme
+2025-01-27 01:33:06,846 - INFO - Coordonnées actuelle : (-11, -10)
+2025-01-27 01:33:06,846 - INFO - Direction 0: x BETWEEN -10 AND 4, y = -10
+2025-01-27 01:33:06,848 - INFO - Meilleure correspondance pour 'Fléche dans une pomme': 'Flèche dans une pomme' à la position (-10, -10)
+2025-01-27 01:33:06,850 - INFO - Commande copiée dans le presse-papier : /travel -10 -10
+2025-01-27 01:33:13,604 - INFO - Map de l'indice (-10, -10)
+2025-01-27 01:33:15,072 - INFO - On passe à l'indice : 3 / 5
+2025-01-27 01:33:15,420 - INFO - Texte extrait : 6 - Logo Ankoma peint E
+2025-01-27 01:33:15,420 - INFO - Coordonnées actuelle : (-10, -10)
+2025-01-27 01:33:15,420 - INFO - Direction 6: y BETWEEN -25 AND -11  x = -10
+2025-01-27 01:33:15,422 - INFO - Meilleure correspondance pour 'Logo Ankoma peint E': 'Logo Ankama peint' à la position (-10, -11)
+2025-01-27 01:33:15,423 - INFO - Commande copiée dans le presse-papier : /travel -10 -11
+2025-01-27 01:33:20,339 - INFO - Map de l'indice (-10, -11)
+2025-01-27 01:33:21,885 - INFO - On passe à l'indice : 4 / 5
+2025-01-27 01:33:22,242 - INFO - Texte extrait : 6 - Champignon rayé
+2025-01-27 01:33:22,242 - INFO - Coordonnées actuelle : (-10, -11)
+2025-01-27 01:33:22,244 - INFO - Direction 6: y BETWEEN -26 AND -12  x = -10
+2025-01-27 01:33:22,245 - INFO - Meilleure correspondance pour 'Champignon rayé': 'Champignon rayé' à la position (-10, -15)
+2025-01-27 01:33:22,247 - INFO - Commande copiée dans le presse-papier : /travel -10 -15
+2025-01-27 01:33:40,865 - INFO - Map de l'indice (-10, -15)
+2025-01-27 01:33:42,471 - INFO - On passe à l'indice : 5 / 5
+2025-01-27 01:33:42,862 - INFO - Texte extrait : 4 - Champignon rayé
+2025-01-27 01:33:42,862 - INFO - Coordonnées actuelle : (-10, -15)
+2025-01-27 01:33:42,862 - INFO - Direction 4: x BETWEEN -25 AND -11, y = -15
+2025-01-27 01:33:42,864 - INFO - Meilleure correspondance pour 'Champignon rayé': 'Champignon rayé' à la position (-18, -15)
+2025-01-27 01:33:42,866 - INFO - Commande copiée dans le presse-papier : /travel -18 -15
+2025-01-27 01:34:15,881 - INFO - Map de l'indice (-18, -15)
+2025-01-27 01:34:17,508 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:34:20,245 - INFO - Nombre d'indices détectés : 0
+2025-01-27 01:38:26,971 - INFO - Nombre d'indices détectés : 4
+2025-01-27 01:38:26,971 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 01:38:27,381 - INFO - Texte extrait : 0 - Clef dorée
+2025-01-27 01:38:27,381 - INFO - Coordonnées actuelle : (-29, -12)
+2025-01-27 01:38:27,381 - INFO - Direction 0: x BETWEEN -28 AND -14, y = -12
+2025-01-27 01:38:27,383 - INFO - Meilleure correspondance pour 'Clef dorée': 'Clef dorée' à la position (-24, -12)
+2025-01-27 01:38:27,386 - INFO - Commande copiée dans le presse-papier : /travel -24 -12
+2025-01-27 01:38:49,958 - INFO - Map de l'indice (-24, -12)
+2025-01-27 01:38:51,465 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 01:38:51,881 - INFO - Texte extrait : 2 - Champignon rayé
+2025-01-27 01:38:51,881 - INFO - Coordonnées actuelle : (-24, -12)
+2025-01-27 01:38:51,882 - INFO - Direction 2: y BETWEEN -11 AND 3, x = -24
+2025-01-27 01:38:51,883 - INFO - Meilleure correspondance pour 'Champignon rayé': 'Champignon rayé' à la position (-24, -10)
+2025-01-27 01:38:51,885 - INFO - Commande copiée dans le presse-papier : /travel -24 -10
+2025-01-27 01:39:02,505 - INFO - Map de l'indice (-24, -10)
+2025-01-27 01:39:04,054 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 01:39:04,428 - INFO - Texte extrait : 0 - Crane de Roublard
+2025-01-27 01:39:04,428 - INFO - Coordonnées actuelle : (-24, -10)
+2025-01-27 01:39:04,429 - INFO - Direction 0: x BETWEEN -23 AND -9, y = -10
+2025-01-27 01:39:04,430 - INFO - Meilleure correspondance pour 'Crane de Roublard': 'Crâne de Roublard' à la position (-23, -10)
+2025-01-27 01:39:04,432 - INFO - Commande copiée dans le presse-papier : /travel -23 -10
+2025-01-27 01:39:09,547 - INFO - Map de l'indice (-23, -10)
+2025-01-27 01:39:11,157 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 01:39:11,537 - INFO - Texte extrait : 2 - Théiére 6 rayures
+2025-01-27 01:39:11,537 - INFO - Coordonnées actuelle : (-23, -10)
+2025-01-27 01:39:11,537 - INFO - Direction 2: y BETWEEN -9 AND 5, x = -23
+2025-01-27 01:39:11,539 - INFO - Meilleure correspondance pour 'Théiére 6 rayures': 'Théière à rayures' à la position (-23, -5)
+2025-01-27 01:39:11,540 - INFO - Commande copiée dans le presse-papier : /travel -23 -5
+2025-01-27 01:39:33,366 - INFO - Map de l'indice (-23, -5)
+2025-01-27 01:39:34,830 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:39:38,107 - INFO - Nombre d'indices détectés : 4
+2025-01-27 01:39:38,107 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 01:39:38,452 - INFO - Texte extrait : 2 - Logo Ankomapeint
+2025-01-27 01:39:38,452 - INFO - Coordonnées actuelle : (-23, -5)
+2025-01-27 01:39:38,452 - INFO - Direction 2: y BETWEEN -4 AND 10, x = -23
+2025-01-27 01:39:38,454 - INFO - Meilleure correspondance pour 'Logo Ankomapeint': 'Logo Ankama peint' à la position (-23, -4)
+2025-01-27 01:39:38,457 - INFO - Commande copiée dans le presse-papier : /travel -23 -4
+2025-01-27 01:39:46,824 - INFO - Map de l'indice (-23, -4)
+2025-01-27 01:39:48,349 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 01:39:48,729 - INFO - Texte extrait : 4 - Bougie dans un trou
+2025-01-27 01:39:48,729 - INFO - Coordonnées actuelle : (-23, -4)
+2025-01-27 01:39:48,730 - INFO - Direction 4: x BETWEEN -38 AND -24, y = -4
+2025-01-27 01:39:48,731 - INFO - Meilleure correspondance pour 'Bougie dans un trou': 'Bougie dans un trou' à la position (-27, -4)
+2025-01-27 01:39:48,734 - INFO - Commande copiée dans le presse-papier : /travel -27 -4
+2025-01-27 01:40:07,122 - INFO - Map de l'indice (-27, -4)
+2025-01-27 01:40:08,579 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 01:40:08,965 - INFO - Texte extrait : 0 - Crane dans un trou E
+2025-01-27 01:40:08,965 - INFO - Coordonnées actuelle : (-27, -4)
+2025-01-27 01:40:08,966 - INFO - Direction 0: x BETWEEN -26 AND -12, y = -4
+2025-01-27 01:40:08,968 - INFO - Meilleure correspondance pour 'Crane dans un trou E': 'Crâne dans un trou' à la position (-26, -4)
+2025-01-27 01:40:08,970 - INFO - Commande copiée dans le presse-papier : /travel -26 -4
+2025-01-27 01:40:12,080 - INFO - Map de l'indice (-26, -4)
+2025-01-27 01:40:13,628 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 01:40:13,999 - INFO - Texte extrait : 2 - Gravure de Firefoux
+2025-01-27 01:40:13,999 - INFO - Coordonnées actuelle : (-26, -4)
+2025-01-27 01:40:14,000 - INFO - Direction 2: y BETWEEN -3 AND 11, x = -26
+2025-01-27 01:40:14,001 - INFO - Meilleure correspondance pour 'Gravure de Firefoux': 'Gravure de Firefoux' à la position (-26, 5)
+2025-01-27 01:40:14,003 - INFO - Commande copiée dans le presse-papier : /travel -26 5
+2025-01-27 01:40:52,583 - INFO - Map de l'indice (-26, 5)
+2025-01-27 01:40:54,146 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:40:57,297 - INFO - Nombre d'indices détectés : 3
+2025-01-27 01:40:57,297 - INFO - On passe à l'indice : 1 / 3
+2025-01-27 01:40:57,706 - INFO - Texte extrait : 0 - Logo Ankomapeint
+2025-01-27 01:40:57,706 - INFO - Coordonnées actuelle : (-26, 5)
+2025-01-27 01:40:57,707 - INFO - Direction 0: x BETWEEN -25 AND -11, y = 5
+2025-01-27 01:40:57,708 - INFO - Meilleure correspondance pour 'Logo Ankomapeint': 'Logo Ankama peint' à la position (-23, 5)
+2025-01-27 01:40:57,710 - INFO - Commande copiée dans le presse-papier : /travel -23 5
+2025-01-27 01:41:13,039 - INFO - Map de l'indice (-23, 5)
+2025-01-27 01:41:14,586 - INFO - On passe à l'indice : 2 / 3
+2025-01-27 01:41:15,012 - INFO - Texte extrait : 4 - Symbole de quéte peint
+2025-01-27 01:41:15,012 - INFO - Coordonnées actuelle : (-23, 5)
+2025-01-27 01:41:15,012 - INFO - Direction 4: x BETWEEN -38 AND -24, y = 5
+2025-01-27 01:41:15,013 - INFO - Meilleure correspondance pour 'Symbole de quéte peint': 'Symbole de quête peint' à la position (-27, 5)
+2025-01-27 01:41:15,015 - INFO - Commande copiée dans le presse-papier : /travel -27 5
+2025-01-27 01:41:32,349 - INFO - Map de l'indice (-27, 5)
+2025-01-27 01:41:33,918 - INFO - On passe à l'indice : 3 / 3
+2025-01-27 01:41:34,270 - INFO - Texte extrait : 4 - Champignon rayé
+2025-01-27 01:41:34,270 - INFO - Coordonnées actuelle : (-27, 5)
+2025-01-27 01:41:34,271 - INFO - Direction 4: x BETWEEN -42 AND -28, y = 5
+2025-01-27 01:41:34,272 - INFO - Meilleure correspondance pour 'Champignon rayé': 'Champignon rayé' à la position (-28, 5)
+2025-01-27 01:41:34,274 - INFO - Commande copiée dans le presse-papier : /travel -28 5
+2025-01-27 01:41:41,070 - INFO - Map de l'indice (-28, 5)
+2025-01-27 01:41:42,509 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:46:06,053 - INFO - Nombre d'indices détectés : 5
+2025-01-27 01:46:06,053 - INFO - On passe à l'indice : 1 / 5
+2025-01-27 01:46:06,480 - INFO - Texte extrait : 6 - Champignon rayé e
+2025-01-27 01:46:06,480 - INFO - Coordonnées actuelle : (11, 30)
+2025-01-27 01:46:06,480 - INFO - Direction 6: y BETWEEN 15 AND 29  x = 11
+2025-01-27 01:46:06,482 - INFO - Meilleure correspondance pour 'Champignon rayé e': 'Champignon rayé' à la position (11, 29)
+2025-01-27 01:46:06,484 - INFO - Commande copiée dans le presse-papier : /travel 11 29
+2025-01-27 01:46:11,426 - INFO - Map de l'indice (11, 29)
+2025-01-27 01:46:12,874 - INFO - On passe à l'indice : 2 / 5
+2025-01-27 01:46:13,294 - INFO - Texte extrait : 4 - Marionette
+2025-01-27 01:46:13,294 - INFO - Coordonnées actuelle : (11, 29)
+2025-01-27 01:46:13,294 - INFO - Direction 4: x BETWEEN -4 AND 10, y = 29
+2025-01-27 01:46:13,295 - INFO - Meilleure correspondance pour 'Marionette': 'Marionnette' à la position (3, 29)
+2025-01-27 01:46:13,298 - INFO - Commande copiée dans le presse-papier : /travel 3 29
+2025-01-27 01:46:46,586 - INFO - Map de l'indice (3, 29)
+2025-01-27 01:46:48,101 - INFO - On passe à l'indice : 3 / 5
+2025-01-27 01:46:48,519 - INFO - Texte extrait : 6 - Fléche dans une pomme
+2025-01-27 01:46:48,519 - INFO - Coordonnées actuelle : (3, 29)
+2025-01-27 01:46:48,519 - INFO - Direction 6: y BETWEEN 14 AND 28  x = 3
+2025-01-27 01:46:48,521 - INFO - Meilleure correspondance pour 'Fléche dans une pomme': 'Flèche dans une pomme' à la position (3, 19)
+2025-01-27 01:46:48,522 - INFO - Commande copiée dans le presse-papier : /travel 3 19
+2025-01-27 01:47:27,244 - INFO - Map de l'indice (3, 19)
+2025-01-27 01:47:28,857 - INFO - On passe à l'indice : 4 / 5
+2025-01-27 01:47:29,300 - INFO - Texte extrait : 6 - Bougie dans un trou
+2025-01-27 01:47:29,300 - INFO - Coordonnées actuelle : (3, 19)
+2025-01-27 01:47:29,300 - INFO - Direction 6: y BETWEEN 4 AND 18  x = 3
+2025-01-27 01:47:29,302 - INFO - Meilleure correspondance pour 'Bougie dans un trou': 'Bougie dans un trou' à la position (3, 10)
+2025-01-27 01:47:29,303 - INFO - Commande copiée dans le presse-papier : /travel 3 10
+2025-01-27 01:48:05,998 - INFO - Map de l'indice (3, 10)
+2025-01-27 01:48:07,583 - INFO - On passe à l'indice : 5 / 5
+2025-01-27 01:48:08,076 - INFO - Texte extrait : 6 - Epouvontail pipe E
+2025-01-27 01:48:08,076 - INFO - Coordonnées actuelle : (3, 10)
+2025-01-27 01:48:08,076 - INFO - Direction 6: y BETWEEN -5 AND 9  x = 3
+2025-01-27 01:48:08,078 - INFO - Meilleure correspondance pour 'Epouvontail pipe E': 'Épouvantail à pipe' à la position (3, 2)
+2025-01-27 01:48:08,080 - INFO - Commande copiée dans le presse-papier : /travel 3 2
+2025-01-27 01:48:38,633 - INFO - Map de l'indice (3, 2)
+2025-01-27 01:48:40,196 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:48:43,224 - INFO - Nombre d'indices détectés : 4
+2025-01-27 01:48:43,225 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 01:48:43,623 - INFO - Texte extrait : 0 - Gravure daile
+2025-01-27 01:48:43,623 - INFO - Coordonnées actuelle : (3, 2)
+2025-01-27 01:48:43,624 - INFO - Direction 0: x BETWEEN 4 AND 18, y = 2
+2025-01-27 01:48:43,625 - INFO - Meilleure correspondance pour 'Gravure daile': 'Gravure d'aile' à la position (4, 2)
+2025-01-27 01:48:43,627 - INFO - Commande copiée dans le presse-papier : /travel 4 2
+2025-01-27 01:48:50,156 - INFO - Map de l'indice (4, 2)
+2025-01-27 01:48:51,605 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 01:48:52,107 - INFO - Texte extrait : 6 - Bougie dans un trou
+2025-01-27 01:48:52,108 - INFO - Coordonnées actuelle : (4, 2)
+2025-01-27 01:48:52,108 - INFO - Direction 6: y BETWEEN -13 AND 1  x = 4
+2025-01-27 01:48:52,109 - INFO - Meilleure correspondance pour 'Bougie dans un trou': 'Bougie dans un trou' à la position (4, -6)
+2025-01-27 01:48:52,111 - INFO - Commande copiée dans le presse-papier : /travel 4 -6
+2025-01-27 01:49:30,029 - INFO - Map de l'indice (4, -6)
+2025-01-27 01:49:31,629 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 01:49:31,979 - INFO - Texte extrait : 0 - Etoile jaune peinte
+2025-01-27 01:49:31,979 - INFO - Coordonnées actuelle : (4, -6)
+2025-01-27 01:49:31,980 - INFO - Direction 0: x BETWEEN 5 AND 19, y = -6
+2025-01-27 01:49:31,981 - INFO - Meilleure correspondance pour 'Etoile jaune peinte': 'Étoile jaune peinte' à la position (5, -6)
+2025-01-27 01:49:31,982 - INFO - Commande copiée dans le presse-papier : /travel 5 -6
+2025-01-27 01:49:38,553 - INFO - Map de l'indice (5, -6)
+2025-01-27 01:49:40,146 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 01:49:40,539 - INFO - Texte extrait : 0 - Hache brisée
+2025-01-27 01:49:40,539 - INFO - Coordonnées actuelle : (5, -6)
+2025-01-27 01:49:40,539 - INFO - Direction 0: x BETWEEN 6 AND 20, y = -6
+2025-01-27 01:49:40,540 - INFO - Meilleure correspondance pour 'Hache brisée': 'Hache brisée' à la position (6, -6)
+2025-01-27 01:49:40,543 - INFO - Commande copiée dans le presse-papier : /travel 6 -6
+2025-01-27 01:49:47,155 - INFO - Map de l'indice (6, -6)
+2025-01-27 01:49:48,726 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:49:51,321 - INFO - Nombre d'indices détectés : 2
+2025-01-27 01:49:51,321 - INFO - On passe à l'indice : 1 / 2
+2025-01-27 01:49:51,788 - INFO - Texte extrait : 6 - Gravure de logo
+Ankama
+2025-01-27 01:49:51,789 - INFO - Coordonnées actuelle : (6, -6)
+2025-01-27 01:49:51,789 - INFO - Direction 6: y BETWEEN -21 AND -7  x = 6
+2025-01-27 01:49:51,790 - INFO - Meilleure correspondance pour 'Gravure de logo
+Ankama': 'Gravure de logo Ankama' à la position (6, -8)
+2025-01-27 01:49:51,792 - INFO - Commande copiée dans le presse-papier : /travel 6 -8
+2025-01-27 01:50:01,708 - INFO - Map de l'indice (6, -8)
+2025-01-27 01:50:03,149 - INFO - On passe à l'indice : 2 / 2
+2025-01-27 01:50:03,519 - INFO - Texte extrait : 4 - Minouki
+2025-01-27 01:50:03,519 - INFO - Coordonnées actuelle : (6, -8)
+2025-01-27 01:50:03,519 - INFO - Direction 4: x BETWEEN -9 AND 5, y = -8
+2025-01-27 01:50:03,521 - INFO - Meilleure correspondance pour 'Minouki': 'Tricycle' à la position (4, -8)
+2025-01-27 01:50:03,523 - INFO - Commande copiée dans le presse-papier : /travel 4 -8
+2025-01-27 01:50:11,822 - INFO - Map de l'indice (4, -8)
+2025-01-27 01:50:13,380 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:52:35,939 - INFO - Nombre d'indices détectés : 4
+2025-01-27 01:52:35,939 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 01:52:36,420 - INFO - Texte extrait : 2 - Fléche dans une pomme
+2025-01-27 01:52:36,420 - INFO - Coordonnées actuelle : (-13, -28)
+2025-01-27 01:52:36,420 - INFO - Direction 2: y BETWEEN -27 AND -13, x = -13
+2025-01-27 01:52:36,421 - INFO - Meilleure correspondance pour 'Fléche dans une pomme': 'Flèche dans une pomme' à la position (-13, -24)
+2025-01-27 01:52:36,426 - INFO - Commande copiée dans le presse-papier : /travel -13 -24
+2025-01-27 01:52:52,819 - INFO - Map de l'indice (-13, -24)
+2025-01-27 01:52:54,226 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 01:52:54,744 - INFO - Texte extrait : 0 - Trace demainensang
+2025-01-27 01:52:54,744 - INFO - Coordonnées actuelle : (-13, -24)
+2025-01-27 01:52:54,745 - INFO - Direction 0: x BETWEEN -12 AND 2, y = -24
+2025-01-27 01:52:54,747 - INFO - Meilleure correspondance pour 'Trace demainensang': 'Trace de main en sang' à la position (-12, -24)
+2025-01-27 01:52:54,750 - INFO - Commande copiée dans le presse-papier : /travel -12 -24
+2025-01-27 01:53:01,193 - INFO - Map de l'indice (-12, -24)
+2025-01-27 01:53:02,579 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 01:53:02,971 - INFO - Texte extrait : 2 - Tombe inondée
+2025-01-27 01:53:02,971 - INFO - Coordonnées actuelle : (-12, -24)
+2025-01-27 01:53:02,972 - INFO - Direction 2: y BETWEEN -23 AND -9, x = -12
+2025-01-27 01:53:02,973 - INFO - Meilleure correspondance pour 'Tombe inondée': 'Tombe inondée' à la position (-12, -14)
+2025-01-27 01:53:02,974 - INFO - Commande copiée dans le presse-papier : /travel -12 -14
+2025-01-27 01:53:43,212 - INFO - Map de l'indice (-12, -14)
+2025-01-27 01:53:44,839 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 01:53:45,211 - INFO - Texte extrait : 0 - Bougie dans un trou
+2025-01-27 01:53:45,211 - INFO - Coordonnées actuelle : (-12, -14)
+2025-01-27 01:53:45,212 - INFO - Direction 0: x BETWEEN -11 AND 3, y = -14
+2025-01-27 01:53:45,213 - INFO - Meilleure correspondance pour 'Bougie dans un trou': 'Bougie dans un trou' à la position (-10, -14)
+2025-01-27 01:53:45,215 - INFO - Commande copiée dans le presse-papier : /travel -10 -14
+2025-01-27 01:53:56,981 - INFO - Map de l'indice (-10, -14)
+2025-01-27 01:53:58,480 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:54:01,091 - INFO - Nombre d'indices détectés : 4
+2025-01-27 01:54:01,091 - INFO - On passe à l'indice : 1 / 4
+2025-01-27 01:54:01,503 - INFO - Texte extrait : 0 - Crane dans un trou e
+2025-01-27 01:54:01,503 - INFO - Coordonnées actuelle : (-10, -14)
+2025-01-27 01:54:01,503 - INFO - Direction 0: x BETWEEN -9 AND 5, y = -14
+2025-01-27 01:54:01,505 - INFO - Meilleure correspondance pour 'Crane dans un trou e': 'Crâne dans un trou' à la position (-9, -14)
+2025-01-27 01:54:01,509 - INFO - Commande copiée dans le presse-papier : /travel -9 -14
+2025-01-27 01:54:10,032 - INFO - Map de l'indice (-9, -14)
+2025-01-27 01:54:11,470 - INFO - On passe à l'indice : 2 / 4
+2025-01-27 01:54:11,884 - INFO - Texte extrait : 2 - Gravure de chacha
+2025-01-27 01:54:11,884 - INFO - Coordonnées actuelle : (-9, -14)
+2025-01-27 01:54:11,885 - INFO - Direction 2: y BETWEEN -13 AND 1, x = -9
+2025-01-27 01:54:11,886 - INFO - Meilleure correspondance pour 'Gravure de chacha': 'Gravure de chacha' à la position (-9, -13)
+2025-01-27 01:54:11,888 - INFO - Commande copiée dans le presse-papier : /travel -9 -13
+2025-01-27 01:54:16,726 - INFO - Map de l'indice (-9, -13)
+2025-01-27 01:54:18,212 - INFO - On passe à l'indice : 3 / 4
+2025-01-27 01:54:18,569 - INFO - Texte extrait : 4 - Fleurs smiley
+2025-01-27 01:54:18,570 - INFO - Coordonnées actuelle : (-9, -13)
+2025-01-27 01:54:18,570 - INFO - Direction 4: x BETWEEN -24 AND -10, y = -13
+2025-01-27 01:54:18,572 - INFO - Meilleure correspondance pour 'Fleurs smiley': 'Fleurs smiley' à la position (-10, -13)
+2025-01-27 01:54:18,574 - INFO - Commande copiée dans le presse-papier : /travel -10 -13
+2025-01-27 01:54:25,078 - INFO - Map de l'indice (-10, -13)
+2025-01-27 01:54:26,657 - INFO - On passe à l'indice : 4 / 4
+2025-01-27 01:54:27,019 - INFO - Texte extrait : 2 - Crane de Roublard
+2025-01-27 01:54:27,019 - INFO - Coordonnées actuelle : (-10, -13)
+2025-01-27 01:54:27,019 - INFO - Direction 2: y BETWEEN -12 AND 2, x = -10
+2025-01-27 01:54:27,020 - INFO - Meilleure correspondance pour 'Crane de Roublard': 'Crâne de Roublard' à la position (-10, -12)
+2025-01-27 01:54:27,022 - INFO - Commande copiée dans le presse-papier : /travel -10 -12
+2025-01-27 01:54:33,377 - INFO - Map de l'indice (-10, -12)
+2025-01-27 01:54:34,956 - INFO - Fin d'une étape, on va passer à la suivante !
+2025-01-27 01:54:38,156 - INFO - Nombre d'indices détectés : 3
+2025-01-27 01:54:38,156 - INFO - On passe à l'indice : 1 / 3
+2025-01-27 01:54:38,556 - INFO - Texte extrait : 0 - Crane de renne
+2025-01-27 01:54:38,557 - INFO - Coordonnées actuelle : (-10, -12)
+2025-01-27 01:54:38,557 - INFO - Direction 0: x BETWEEN -9 AND 5, y = -12
+2025-01-27 01:54:38,558 - INFO - Meilleure correspondance pour 'Crane de renne': 'Crâne de renne' à la position (-9, -12)
+2025-01-27 01:54:38,560 - INFO - Commande copiée dans le presse-papier : /travel -9 -12
+2025-01-27 01:54:46,816 - INFO - Map de l'indice (-9, -12)
+2025-01-27 01:54:48,411 - INFO - On passe à l'indice : 2 / 3
+2025-01-27 01:54:48,797 - INFO - Texte extrait : 2 - Gravure de symbole de
+quéte
+2025-01-27 01:54:48,797 - INFO - Coordonnées actuelle : (-9, -12)
+2025-01-27 01:54:48,798 - INFO - Direction 2: y BETWEEN -11 AND 3, x = -9
+2025-01-27 01:54:48,799 - INFO - Meilleure correspondance pour 'Gravure de symbole de
+quéte': 'Gravure de symbole de quête' à la position (-9, -7)
+2025-01-27 01:54:48,801 - INFO - Commande copiée dans le presse-papier : /travel -9 -7
+2025-01-27 01:55:16,015 - ERROR - Bloqué sur une map (dalle, autre) changement manuel
+2025-01-27 01:55:18,338 - INFO - On change map vers bas
+2025-01-27 01:55:52,975 - ERROR - Bloqué sur une map (dalle, autre) changement manuel
+2025-01-27 01:55:55,301 - INFO - On change map vers bas
+2025-01-27 01:56:26,685 - ERROR - Bloqué sur une map (dalle, autre) changement manuel
+2025-01-27 01:56:28,901 - INFO - On change map vers bas
+2025-01-27 01:57:00,309 - ERROR - Bloqué sur une map (dalle, autre) changement manuel
+2025-01-27 01:57:02,596 - INFO - On change map vers bas
+2025-01-27 01:57:34,110 - ERROR - Bloqué sur une map (dalle, autre) changement manuel
+2025-01-27 01:57:36,449 - INFO - On change map vers bas
+2025-01-27 01:58:07,770 - ERROR - Bloqué sur une map (dalle, autre) changement manuel
+2025-01-27 01:58:10,086 - INFO - On change map vers bas
+2025-01-27 01:58:41,562 - ERROR - Bloqué sur une map (dalle, autre) changement manuel
+2025-01-27 01:58:43,783 - INFO - On change map vers bas
+2025-01-27 12:32:28,493 - INFO - Trou de merde
+2025-01-27 12:32:37,321 - ERROR - Aucune correspondance trouvée pour [echelle] avec un score suffisant.
+2025-01-27 12:32:37,343 - INFO - ========================================
+2025-01-27 12:32:37,343 - INFO - Résumé des chasses :
+2025-01-27 12:32:37,343 - INFO -   - Chasses réussies : 0
+2025-01-27 12:32:37,343 - INFO -   - Chasses ratées   : 0
+2025-01-27 12:32:37,343 - INFO -   - Temps écoulé     : 0h 0m 9s
+2025-01-27 12:32:37,343 - INFO - ========================================
+2025-01-27 12:32:37,343 - INFO - On regarde si chasse en cours
+2025-01-27 12:32:39,277 - ERROR - Aucune correspondance trouvée pour [chasse] avec un score suffisant.
+2025-01-27 12:32:39,278 - INFO - Pas de chasse en cours
+2025-01-27 12:32:39,278 - INFO - 👜
+2025-01-27 12:32:39,485 - INFO - Trou de merde
+2025-01-27 12:32:44,196 - ERROR - Aucune correspondance trouvée pour [echelle] avec un score suffisant.
+2025-01-27 12:33:03,842 - INFO - Trou de merde
+2025-01-27 12:34:56,004 - INFO - ========================================
+2025-01-27 12:34:56,005 - INFO - Résumé des chasses :
+2025-01-27 12:34:56,005 - INFO -   - Chasses réussies : 0
+2025-01-27 12:34:56,005 - INFO -   - Chasses ratées   : 0
+2025-01-27 12:34:56,005 - INFO -   - Temps écoulé     : 0h 0m 0s
+2025-01-27 12:34:56,005 - INFO - ========================================
+2025-01-27 12:34:56,005 - INFO - On regarde si chasse en cours
+2025-01-27 12:34:56,568 - ERROR - Aucune correspondance trouvée pour [chasse] avec un score suffisant.
+2025-01-27 12:34:56,569 - INFO - Pas de chasse en cours
+2025-01-27 12:34:56,569 - INFO - 👜
+2025-01-27 12:35:04,571 - INFO - champs de cania
+2025-01-27 12:35:23,470 - INFO - }] Le voyage a été interrompu.
+2025-01-27 12:35:34,471 - INFO - 🚪
+2025-01-27 12:35:36,068 - ERROR - Aucune correspondance trouvée pour [door_1k] avec un score suffisant.
+2025-01-27 12:35:36,068 - ERROR - 🚪 ❌
+2025-01-27 12:35:36,069 - INFO - 🚪
+2025-01-27 12:35:37,669 - ERROR - Aucune correspondance trouvée pour [door_1k] avec un score suffisant.
+2025-01-27 12:35:37,670 - ERROR - 🚪 ❌
+2025-01-27 12:35:37,670 - INFO - 🚪
+2025-01-27 12:35:39,264 - ERROR - Aucune correspondance trouvée pour [door_1k] avec un score suffisant.
+2025-01-27 12:35:39,265 - ERROR - 🚪 ❌
+2025-01-27 12:35:39,266 - INFO - 🚪
+2025-01-27 12:35:40,932 - ERROR - Aucune correspondance trouvée pour [door_1k] avec un score suffisant.
+2025-01-27 12:35:40,932 - ERROR - 🚪 ❌
+2025-01-27 12:35:40,933 - INFO - 🚪
+2025-01-27 12:37:36,776 - INFO - ========================================
+2025-01-27 12:37:36,776 - INFO - Résumé des chasses :
+2025-01-27 12:37:36,776 - INFO -   - Chasses réussies : 0
+2025-01-27 12:37:36,776 - INFO -   - Chasses ratées   : 0
+2025-01-27 12:37:36,776 - INFO -   - Temps écoulé     : 0h 0m 0s
+2025-01-27 12:37:36,776 - INFO - ========================================
+2025-01-27 12:37:36,776 - INFO - On regarde si chasse en cours
+2025-01-27 12:37:37,337 - ERROR - Aucune correspondance trouvée pour [chasse] avec un score suffisant.
+2025-01-27 12:37:37,339 - INFO - Pas de chasse en cours
+2025-01-27 12:37:37,339 - INFO - 👜
+2025-01-27 12:37:44,993 - INFO - champs de cania
+2025-01-27 12:39:08,314 - INFO - ========================================
+2025-01-27 12:39:08,315 - INFO - Résumé des chasses :
+2025-01-27 12:39:08,315 - INFO -   - Chasses réussies : 0
+2025-01-27 12:39:08,315 - INFO -   - Chasses ratées   : 0
+2025-01-27 12:39:08,315 - INFO -   - Temps écoulé     : 0h 0m 0s
+2025-01-27 12:39:08,315 - INFO - ========================================
+2025-01-27 12:39:08,315 - INFO - On regarde si chasse en cours
+2025-01-27 12:39:08,882 - ERROR - Aucune correspondance trouvée pour [chasse] avec un score suffisant.
+2025-01-27 12:39:08,882 - INFO - Pas de chasse en cours
+2025-01-27 12:39:08,882 - INFO - 👜
+2025-01-27 12:39:17,052 - INFO - champs de cania
+2025-01-27 12:39:35,495 - INFO - 🚪
+2025-01-27 12:39:37,184 - INFO - ___ [12:59] Vous étes arrive a destination !
+2025-01-27 12:39:38,184 - INFO - 🚪
+2025-01-27 12:39:39,740 - INFO - 🚪 ✅
+2025-01-27 12:39:48,157 - INFO - ☀️
+2025-01-27 12:39:48,974 - INFO - ☀️ ✅
+2025-01-27 12:39:53,975 - INFO - 📖
+2025-01-27 12:40:04,286 - INFO - ____ [12:59] Vous étes arrive a destination !
