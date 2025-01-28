@@ -207,6 +207,10 @@ def get_target_coords_and_width(target, rigeur, log=True):
         # cv2.waitKey(0)
         # cv2.destroyAllWindows()
         return center_x, center_y, top_left[0] + w
+    else:
+        if log:
+            logger.error(f"Aucune correspondance trouvée pour [{target}] avec un score suffisant.")
+        return None, None, None
 
 def get_target_coords(target, rigeur, log=True):
     # Charger le screenshot et l'image cible
