@@ -8,7 +8,7 @@ import pyperclip
 from autoclicker import click_position, click_position_right, ctrl_click, double_click_position, go_down, go_left, go_right, go_up, hold_key_while_capturing, move_mouse_smoothly, write_in_chat
 from api_client import get_id_of_map, get_name_area_from_id, get_zaap_from_map
 from utils import change_map
-from main import compare_coordinates, get_coo_actual, get_target_coords, main
+from main import compare_coordinates, get_coo_actual, get_target_coords, get_target_coords_and_width, main
 from text_extractor import extract_coo, extract_text
 from screenshot import capture_and_crop, capture_bottom_left_corner, capture_bottom_right_corner, capture_full_window
 from config import Resolution
@@ -244,12 +244,12 @@ def abandon_chasse():
 
 def chasse_en_cours():
     capture_full_window()
-    x, y = get_target_coords("chasse", 0.8)
+    x, y, width = get_target_coords_and_width("chasse", 0.8)
     if x != None:
         # On attend que le voyage est fini
-        logger.info("Chasse en cours, on attend la fin du voyage (30 secondes)")
-        time.sleep(30)
-        click_position(x + 130 , y, True)
+        logger.info("Chasse en cours, on attend la fin du voyage (15 secondes)")
+        time.sleep(15)
+        click_position(width - 3 , y, True)
         return True
     return False
 
@@ -353,6 +353,10 @@ def go_first_hint(x,y):
         time.sleep(55)
         raise Exception("Map saharache bug")
 
+    if x == -14 and y == 13:
+        time.sleep(55)
+        raise Exception("Map Morh kitu jeu de merde")
+
     if x == -81 and y == -37:
         time.sleep(55)
         raise Exception("Map frigost bug")
@@ -420,14 +424,14 @@ def go_cania():
     #go_first_hint(-25, -36)
     x,y = find_malle_sur_la_map(1)
     ctrl_click(x,y)
-    time.sleep(10)
+    time.sleep(8)
     x, _ = find_door()
     if x == None:
         logger.error('ctrl + clic a pas marché')
         x,y = find_malle_sur_la_map(2)
         ctrl_click(x,y)
-        time.sleep(10)
-    chat = get_text_from_chat()
+        time.sleep(8)
+    #chat = get_text_from_chat()
     # if "recherche"  in chat or "en cours" in chat :
     #     x,y = find_malle_sur_la_map(1)
     #     ctrl_click(x,y)

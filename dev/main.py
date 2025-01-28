@@ -168,6 +168,46 @@ def get_coo_actual():
     capture_and_crop(region_coo_actual, save_path_coo_actual)
     return extract_coo(extract_text(save_path_coo_actual, coo=True), save_path_coo_actual)
 
+def get_target_coords_and_width(target, rigeur, log=True):
+    # Charger le screenshot et l'image cible
+    screenshot = cv2.imread('screen/screen_global.png', cv2.IMREAD_COLOR)
+    template = cv2.imread(f'screen/{target}.png', cv2.IMREAD_COLOR)
+
+    # Obtenir les dimensions de l'image cible
+    h, w, _ = template.shape
+
+    # Appliquer la méthode de template matching
+    result = cv2.matchTemplate(screenshot, template, cv2.TM_CCOEFF_NORMED)
+
+    # Trouver la meilleure correspondance
+    _, max_val, _, max_loc = cv2.minMaxLoc(result)
+
+    # Vérifier si la correspondance est au-dessus d'un seuil
+    if max_val >= rigeur:
+        # Coordonnées du coin supérieur gauche
+        top_left = max_loc
+
+        # Calculer les coordonnées du centre
+        center_x = top_left[0] + w // 2
+        center_y = top_left[1] + (h // 2)
+
+
+        # Dessiner le rectangle autour de la meilleure correspondance
+        cv2.rectangle(screenshot, top_left, (top_left[0] + w, top_left[1] + h), (0, 255, 0), 2)
+
+        # Dessiner le point rouge au centre
+        cv2.circle(screenshot, (center_x, center_y), 5, (0, 0, 255), -1)
+
+        # Afficher les coordonnées dans la console
+        
+        #logger.info(f"Point rouge détecté aux coordonnées : (x={center_x}, y={center_y})")
+        
+        # Afficher le résultat
+        # cv2.imshow('Detected', screenshot)
+        # cv2.waitKey(0)
+        # cv2.destroyAllWindows()
+        return center_x, center_y, top_left[0] + w
+
 def get_target_coords(target, rigeur, log=True):
     # Charger le screenshot et l'image cible
     screenshot = cv2.imread('screen/screen_global.png', cv2.IMREAD_COLOR)
@@ -202,7 +242,7 @@ def get_target_coords(target, rigeur, log=True):
         
         #logger.info(f"Point rouge détecté aux coordonnées : (x={center_x}, y={center_y})")
         
-        # Afficher le résultat
+        # # Afficher le résultat
         # cv2.imshow('Detected', screenshot)
         # cv2.waitKey(0)
         # cv2.destroyAllWindows()
