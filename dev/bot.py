@@ -3,7 +3,7 @@ import discord
 
 
 channelId = 1334613161348694171
-token = "MTMzNDYxMjM5NjM1ODExMTMyNA.GCp0ZI.eqXvq2rLewAE8BfbZNfrggg24GvH7eYqhtmOjU"
+vbdffbfdb = "MTMzNDYxMjM5NjM1ODExMTMyNA.GCp0ZI.eqXvq2rLewAE8BfbZNfrggg24GvH7eYqhtmOjU"
 intents = discord.Intents.default()
 
 # inililzing discord client with default intents
@@ -28,8 +28,8 @@ async def on_ready():
 
 
 async def restart():
-    await client.start(token)
+    await client.start(vbdffbfdb)
 # method to be executed from an external file
 def BotRun():
 
-    client.run(token)
+    client.run(vbdffbfdb)
