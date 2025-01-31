@@ -22,7 +22,7 @@ def capture_full_window_datetime(region=None):
     screenshot = pyautogui.screenshot(region=region)
     filename = f"Today/screenshot_archimonstre_{int(time.time())}.png"
     screenshot.save(filename)
-    return screenshot
+    return filename
 
 def capture_top_left_corner(width=200, height=200):
     """

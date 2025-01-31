@@ -249,7 +249,7 @@ def chasse_en_cours():
         # On attend que le voyage est fini
         logger.info("Chasse en cours, on attend la fin du voyage (15 secondes)")
         time.sleep(15)
-        click_position(width - 3 , y, True)
+        click_position(width - 15 , y, True)
         return True
     return False
 

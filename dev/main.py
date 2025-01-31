@@ -1,3 +1,4 @@
+import asyncio
 import hashlib
 import json
 import multiprocessing
@@ -12,6 +13,7 @@ from api_client import call_bdd, get_pos_next_indice
 import pyperclip
 import time
 from logger_config import logger, archimonstre_logger
+import bot as discordBot
 
 LOCAL_DB_PATH = "merged_database_v2.db"
 REMOTE_DB_URL = "https://raw.githubusercontent.com/hugolebihan56/recette-cuisine/refs/heads/main/merged_database_v2.db"
@@ -274,8 +276,15 @@ def find_archimonstre(extracted_coo_actual, previous_coo):
     capture_full_window()
     _x, _y = get_target_coords("archimonstre", 0.7, False)
     if _x != None:
-        capture_full_window_datetime()
+        path  = capture_full_window_datetime()
         archimonstre_logger.info(f"Archimonstre trouvé : coordonées={extracted_coo_actual}, coordonées précédentes={previous_coo}")
+        discordBot.image_path = path
+        discordBot.message = f"@everyone Archimonstre trouvé : coordonées={extracted_coo_actual}, coordonées précédentes={previous_coo}"
+        if previous_coo != extracted_coo_actual:
+            try:
+                asyncio.run(discordBot.BotRun())
+            except:
+                logger.error('Erreur lors de l envoi discord')
 
 
 def do_etape(region, save_path):
@@ -379,7 +388,12 @@ def do_etape(region, save_path):
 
                     if extracted_coo_actual != None and (extracted_coo_actual == previous_coo):
                         compeur_bloque += 1
-                        #logger.error(f"Bloqué : {compeur_bloque} / 12")
+                        
+                        if extracted_coo_actual[0] == -17 and extracted_coo_actual[1] == 8:
+                            time.sleep(3)
+                            change_map("haut")
+                            raise Exception('Canyon sauvage !!! ')
+                    
                     else : 
                         compeur_bloque = 0
 
@@ -508,5 +522,5 @@ def compare_coordinates(coo1, coo2):
 
     
 if __name__ == "__main__":
-    find_archimonstre((0,0), (0,0))
-    #main()
+    #find_archimonstre((0,0), (0,0))
+    main()
