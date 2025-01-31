@@ -4,7 +4,7 @@ import requests
 # Informations sur votre dépôt et fichier
 GITHUB_REPO = "hugolebihan56/recette-cuisine"  # Nom du dépôt (utilisateur/nom_du_dépôt)
 FILE_PATH = "merged_database_v2.db"           # Chemin du fichier dans le dépôt
-GITHUB_TOKEN = "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"    # Remplacez par votre token personnel
+GITHUB_TOKEN = ""   # Remplacez par votre token personnel
 
 def get_file_sha(repo, file_path, token):
     """
