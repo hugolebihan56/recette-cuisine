@@ -185,6 +185,14 @@ def trou_de_merde():
                 time.sleep(3)
 
 
+def map_koalak():
+    pos = get_coo_actual()
+    if pos != None:
+        x,y = pos
+        if x == -17 and y == 8:
+            change_map("haut")
+            time.sleep(5)
+
 def map_buger_sans_havre_sac():
     pos = get_coo_actual()
     if pos != None:
@@ -209,6 +217,7 @@ def go_havre_sac():
     logger.info("👜")
 
     trou_de_merde()
+    map_koalak()
     #map_buger_sans_havre_sac()
 
     click_position_right(10, 500)
