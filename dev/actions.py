@@ -62,14 +62,14 @@ def take_sun():
     if x != None:
         click_position(x, y)
         logger.info("☀️ ✅")
-        time.sleep(5)
+        time.sleep(6)
     else:
         logger.info("☀️ ❌")
         x, y = get_target_coords("sun2", 0.7)
         if x != None:
             click_position(x, y)
             logger.info("☀️ ✅")
-            time.sleep(5)
+            time.sleep(6)
         else:
             # Ce jeu de merde charge pas tout, on sort et re rentre
             logger.info("☀️ ❌")
@@ -112,6 +112,11 @@ def send_sort():
     x, y = get_target_coords("coffre", 0.8)
     if x != None:
         click_position(x, y, True)
+    else:
+        # Pas de mimic (bug dofus)
+        x, y = get_target_coords("coffre_ferme", 0.8)
+        if x != None:
+            click_position(x, y, True)
 
 def end_turn():
     capture_full_window()
@@ -158,9 +163,9 @@ def take_quest():
     x, y = get_target_coords(quest, 0.8)
     if x != None:
         click_position(x, y, True)
-        time.sleep(3)
+        time.sleep(1)
         click_position(x + 35, y + 35)
-        time.sleep(4)
+        time.sleep(4.5)
     else:
         # On est toujours au soleil
         take_sun()
@@ -171,6 +176,13 @@ def quit_malle():
     pyperclip.copy(travel_command) 
     write_in_chat()
     time.sleep(8.5)
+    capture_full_window()
+    if Resolution == "1k":
+        quest = "quest_1k"
+    x, y = get_target_coords(quest, 0.8)
+    if x != None:
+        quit_malle()
+
 
 def trou_de_merde():
     pos = get_coo_actual()
@@ -433,7 +445,7 @@ def go_cania():
     #go_first_hint(-25, -36)
     x,y = find_malle_sur_la_map(1)
     ctrl_click(x,y)
-    time.sleep(8)
+    time.sleep(10)
     x, _ = find_door()
     if x == None:
         logger.error('ctrl + clic a pas marché')
