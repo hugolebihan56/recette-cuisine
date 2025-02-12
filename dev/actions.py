@@ -404,20 +404,24 @@ def travel_finish(x, y):
     extracted_coo_actual = get_coo_actual()
     same_count = 0  # Compteur pour la répétition de la map (9, 21)
 
+    time.sleep(4)
+
     while not compare_coordinates(extracted_coo_actual, [x, y]):
         extracted_coo_actual = get_coo_actual()
         logger.info(f"Voyage pos actuelle : {extracted_coo_actual}")
 
         if extracted_coo_actual == (0, 0):
             # Print c'est pas normal bloqué dans havre sac
+            click_position_right(10, 500)
+            time.sleep(0.5)
             sortir_havre_sac()
             raise Exception("Bloqué dans le havre sac à la pos 0,0")
 
         # Vérification spécifique pour la map (9, 21), en tenant compte des valeurs nulles
-        if extracted_coo_actual == (9, 21):
+        if extracted_coo_actual == (9, 21) or extracted_coo_actual == None:
             same_count += 1
             if same_count >= 10:
-                raise Exception("Blocage détecté : map (9, 21) atteinte 10 fois de suite.")
+                raise Exception(f"Blocage détecté : map {extracted_coo_actual} atteinte 10 fois de suite.")
         else:
             same_count = 0  # Réinitialise le compteur si la map change ou si c'est None
 
