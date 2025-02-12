@@ -88,9 +88,16 @@ def take_combat():
 def take_challs():
     logger.info("💪")
     capture_full_window()
-    x, y = get_target_coords("chall", 0.8)
-    click_position(x, y, True)
-    time.sleep(1.5)
+    x, y = get_target_coords("chall", 0.6)
+    if x != None:
+        click_position(x, y, True)
+        time.sleep(1.5)
+        return True
+    else : 
+        time.sleep(46)
+        return False
+
+    
 
 def set_ready():
     logger.info("✅")
@@ -138,8 +145,9 @@ def combat_fini():
 
 def combat():
     take_combat()
-    take_challs()
-    set_ready()
+    chall_pris = take_challs()
+    if chall_pris:
+        set_ready()
     x, y = get_sort()
     finito = False
     while not finito:
@@ -250,7 +258,7 @@ def go_havre_sac():
         
 
 def sortir_havre_sac():
-    logger.info("👜")
+    logger.info("On sort 👜")
 
     time.sleep(0.5)
     keyboard.press_and_release('h')
@@ -400,6 +408,11 @@ def travel_finish(x, y):
         extracted_coo_actual = get_coo_actual()
         logger.info(f"Voyage pos actuelle : {extracted_coo_actual}")
 
+        if extracted_coo_actual == (0, 0):
+            # Print c'est pas normal bloqué dans havre sac
+            sortir_havre_sac()
+            raise Exception("Bloqué dans le havre sac à la pos 0,0")
+
         # Vérification spécifique pour la map (9, 21), en tenant compte des valeurs nulles
         if extracted_coo_actual == (9, 21):
             same_count += 1
@@ -514,6 +527,7 @@ if __name__ == "__main__":
     chasse_reussie = 0
     chasse_ratee = 0
     start_program_time = time.time()
+
     while True:
         try:
             os.system('cls' if os.name == 'nt' else 'clear')
