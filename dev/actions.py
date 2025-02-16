@@ -103,8 +103,11 @@ def set_ready():
     logger.info("✅")
     capture_full_window()
     x, y = get_target_coords("pret", 0.8)
-    click_position(x, y,True)
-    time.sleep(3)
+    if x != None:
+        click_position(x, y,True)
+        time.sleep(3)
+    else : 
+        time.sleep(58)
 
 def get_sort():
     logger.info("🪄")
@@ -243,7 +246,7 @@ def go_havre_sac():
     click_position_right(10, 500)
     time.sleep(0.5)
     keyboard.press_and_release('h')
-    time.sleep(2.5)
+    time.sleep(3.5)
 
     x, _ = find_zaap()
 
@@ -295,7 +298,7 @@ def find_zaap():
 def open_zaap():
     x,y = find_zaap()
     click_position(x, y, True)
-    time.sleep(2.5)
+    time.sleep(2)
 
 
 def sortir_pandala():
