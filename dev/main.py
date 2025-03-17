@@ -397,7 +397,7 @@ def do_etape(region, save_path):
                     else : 
                         compeur_bloque = 0
 
-                    if compeur_bloque >= 12:
+                    if compeur_bloque >= 7:
                         logger.error("Bloqué sur une map (dalle, autre) changement manuel")
                         if direction == '0':
                             change_map("droite")

@@ -348,12 +348,7 @@ def tp_near_zaap():
         pyperclip.copy(zaap_name)
         #keyboard.press_and_release('ctrl+v')
         type_text_human_like(zaap_name, delay=0.15)
-        time.sleep(1)        
-
-        if "Désacrées" in zaap_name:
-            time.sleep(60)
-            raise Exception("Map buger on quitte cette chasse")
-        
+        time.sleep(1)                
         keyboard.press_and_release('enter')
 
         time.sleep(5)
