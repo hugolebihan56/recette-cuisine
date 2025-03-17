@@ -274,7 +274,7 @@ def sortir_du_trou():
 
 def find_archimonstre(extracted_coo_actual, previous_coo):
     capture_full_window()
-    _x, _y = get_target_coords("archimonstre", 0.7, False)
+    _x, _y = get_target_coords("archimonstre", 0.6, False)
     if _x != None:
         path  = capture_full_window_datetime()
         archimonstre_logger.info(f"Archimonstre trouvé : coordonées={extracted_coo_actual}, coordonées précédentes={previous_coo}")
@@ -397,7 +397,7 @@ def do_etape(region, save_path):
                     else : 
                         compeur_bloque = 0
 
-                    if compeur_bloque >= 7:
+                    if compeur_bloque >= 4:
                         logger.error("Bloqué sur une map (dalle, autre) changement manuel")
                         if direction == '0':
                             change_map("droite")
@@ -408,7 +408,7 @@ def do_etape(region, save_path):
                         elif direction == '6':
                             change_map("haut")
 
-                        time.sleep(5)
+                        time.sleep(3)
                         compeur_bloque = 0
                         pyperclip.copy(travel_command)
                         write_in_chat()
